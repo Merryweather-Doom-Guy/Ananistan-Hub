@@ -1,1343 +1,1586 @@
 do
-local _0x0002 = string.char(84, 111, 109, 97, 115, 32, 65, 121, 97, 107, 32, 71, 252, 99, 252)
-local _0x0003 = _0x0004:_0x0005(string.char(84, 119, 101, 101, 110, 83, 101, 114, 118, 105, 99, 101))
-local _0x0006 = _0x0007._0x0008(string.char(83, 99, 114, 101, 101, 110, 71, 117, 105), _0x0004._0x0009)
-_0x0006._0x000a = string.char(75, 101, 121, 65, 117, 116, 104)
-_0x0006._0x000b = false
-local _0x000c = _0x0007._0x0008(string.char(70, 114, 97, 109, 101), _0x0006)
-_0x000c._0x000d = _0x000e._0x0008(0, (401 - 61), 0, (65 + 65))
-_0x000c._0x000f = _0x000e._0x0008(0.5, -170, 0.5, -(32 + 33))
-_0x000c._0x0010 = _0x0011._0x0012(18, (9 + 9), 22)
-_0x000c._0x0013 = 0
-_0x0007._0x0008(string.char(85, 73, 67, 111, 114, 110, 101, 114), _0x000c)._0x0014 = _0x0015._0x0008(0, 10)
-local _0x0016 = _0x0007._0x0008(string.char(70, 114, 97, 109, 101), _0x000c)
-_0x0016._0x000d = _0x000e._0x0008(1, 0, 0, 3)
-_0x0016._0x0010 = _0x0011._0x0012((510 / 2), (69 - 19), (25 + 25))
-_0x0016._0x0013 = 0
-_0x0007._0x0008(string.char(85, 73, 67, 111, 114, 110, 101, 114), _0x0016)._0x0014 = _0x0015._0x0008(0, 10)
-local _0x0017 = _0x0007._0x0008(string.char(84, 101, 120, 116, 66, 111, 120), _0x000c)
-_0x0017._0x000d = _0x000e._0x0008(1, -(90 / 3), 0, (61 - 25))
-_0x0017._0x000f = _0x000e._0x0008(0, (29 - 14), 0, 20)
-_0x0017._0x0010 = _0x0011._0x0012((15 + 15), (44 - 14), 36)
-_0x0017._0x0018 = _0x0011._0x0012((660 / 3), 220, (299 - 79))
-_0x0017._0x0019 = string.char(75, 101, 121, 32, 103, 105, 114, 46, 46, 46)
-_0x0017._0x001a = ""
-_0x0017._0x001b = _0x001c._0x001b._0x001d
-_0x0017._0x001e = (66 - 52)
-_0x0017._0x001f = false
-_0x0017._0x0013 = 0
-_0x0007._0x0008(string.char(85, 73, 67, 111, 114, 110, 101, 114), _0x0017)._0x0014 = _0x0015._0x0008(0, 6)
-local _0x0020 = _0x0007._0x0008(string.char(84, 101, 120, 116, 76, 97, 98, 101, 108), _0x000c)
-_0x0020._0x000d = _0x000e._0x0008(1, -(90 / 3), 0, (105 - 87))
-_0x0020._0x000f = _0x000e._0x0008(0, (111 - 96), 0, (248 / 4))
-_0x0020._0x0021 = 1
-_0x0020._0x001a = ""
-_0x0020._0x0018 = _0x0011._0x0012(200, (35 + 35), (138 - 68))
-_0x0020._0x001b = _0x001c._0x001b._0x0022
-_0x0020._0x001e = 12
-_0x0020._0x0023 = _0x001c._0x0023._0x0024
-local _0x0025 = _0x0007._0x0008(string.char(84, 101, 120, 116, 66, 117, 116, 116, 111, 110), _0x000c)
-_0x0025._0x000d = _0x000e._0x0008(1, -(120 / 4), 0, (96 / 3))
-_0x0025._0x000f = _0x000e._0x0008(0, (7 + 8), 0, 85)
-_0x0025._0x0010 = _0x0011._0x0012((1020 / 4), (200 / 4), (60 - 10))
-_0x0025._0x001a = string.char(71, 105, 114, 105, 351)
-_0x0025._0x0018 = _0x0011._0x0008(1, 1, 1)
-_0x0025._0x001b = _0x001c._0x001b._0x0026
-_0x0025._0x001e = 14
-_0x0025._0x0013 = 0
-_0x0007._0x0008(string.char(85, 73, 67, 111, 114, 110, 101, 114), _0x0025)._0x0014 = _0x0015._0x0008(0, 6)
-local _0x0027 = false
-local function _0x0028()
-if _0x0017._0x001a == _0x0002 then
-_0x0027 = true
-_0x0003:_0x0029(_0x000c, _0x002a._0x0008(0.3), {_0x0021 = 1}):_0x002b()
-_0x002c._0x002d(0.35)
-_0x0006:_0x002e()
-else
-_0x0020._0x001a = string.char(89, 97, 110, 108, 305, 351, 32, 107, 101, 121, 33)
-_0x0017._0x001a = ""
-_0x0003:_0x0029(_0x000c, _0x002a._0x0008(0.06), {_0x000f = _0x000e._0x0008(0.5, -(261 - 99), 0.5, -65)}):_0x002b()
-_0x002c._0x002d(0.06)
-_0x0003:_0x0029(_0x000c, _0x002a._0x0008(0.06), {_0x000f = _0x000e._0x0008(0.5, -(89 + 89), 0.5, -(260 / 4))}):_0x002b()
-_0x002c._0x002d(0.06)
-_0x0003:_0x0029(_0x000c, _0x002a._0x0008(0.06), {_0x000f = _0x000e._0x0008(0.5, -(189 - 19), 0.5, -(107 - 42))}):_0x002b()
+    local KEY = "Tomas Ayak Gücü"
+    local TweenService = game:GetService("TweenService")
+    local sg = Instance.new("ScreenGui", game.CoreGui)
+    sg.Name = "KeyAuth"
+    sg.ResetOnSpawn = false
+
+    local bg = Instance.new("Frame", sg)
+    bg.Size = UDim2.new(0, 340, 0, 130)
+    bg.Position = UDim2.new(0.5, -170, 0.5, -65)
+    bg.BackgroundColor3 = Color3.fromRGB(18, 18, 22)
+    bg.BorderSizePixel = 0
+    Instance.new("UICorner", bg).CornerRadius = UDim.new(0, 10)
+
+    local accent = Instance.new("Frame", bg)
+    accent.Size = UDim2.new(1, 0, 0, 3)
+    accent.BackgroundColor3 = Color3.fromRGB(255, 50, 50)
+    accent.BorderSizePixel = 0
+    Instance.new("UICorner", accent).CornerRadius = UDim.new(0, 10)
+
+    local box = Instance.new("TextBox", bg)
+    box.Size = UDim2.new(1, -30, 0, 36)
+    box.Position = UDim2.new(0, 15, 0, 20)
+    box.BackgroundColor3 = Color3.fromRGB(30, 30, 36)
+    box.TextColor3 = Color3.fromRGB(220, 220, 220)
+    box.PlaceholderText = "Key gir..."
+    box.Text = ""
+    box.Font = Enum.Font.GothamMedium
+    box.TextSize = 14
+    box.ClearTextOnFocus = false
+    box.BorderSizePixel = 0
+    Instance.new("UICorner", box).CornerRadius = UDim.new(0, 6)
+
+    local statusLbl = Instance.new("TextLabel", bg)
+    statusLbl.Size = UDim2.new(1, -30, 0, 18)
+    statusLbl.Position = UDim2.new(0, 15, 0, 62)
+    statusLbl.BackgroundTransparency = 1
+    statusLbl.Text = ""
+    statusLbl.TextColor3 = Color3.fromRGB(200, 70, 70)
+    statusLbl.Font = Enum.Font.Gotham
+    statusLbl.TextSize = 12
+    statusLbl.TextXAlignment = Enum.TextXAlignment.Left
+
+    local confirmBtn = Instance.new("TextButton", bg)
+    confirmBtn.Size = UDim2.new(1, -30, 0, 32)
+    confirmBtn.Position = UDim2.new(0, 15, 0, 85)
+    confirmBtn.BackgroundColor3 = Color3.fromRGB(255, 50, 50)
+    confirmBtn.Text = "Giriş"
+    confirmBtn.TextColor3 = Color3.new(1, 1, 1)
+    confirmBtn.Font = Enum.Font.GothamBold
+    confirmBtn.TextSize = 14
+    confirmBtn.BorderSizePixel = 0
+    Instance.new("UICorner", confirmBtn).CornerRadius = UDim.new(0, 6)
+
+    local verified = false
+    local function tryKey()
+        if box.Text == KEY then
+            verified = true
+            TweenService:Create(bg, TweenInfo.new(0.3), {BackgroundTransparency = 1}):Play()
+            task.wait(0.35)
+            sg:Destroy()
+        else
+            statusLbl.Text = "Yanlış key!"
+            box.Text = ""
+            TweenService:Create(bg, TweenInfo.new(0.06), {Position = UDim2.new(0.5, -162, 0.5, -65)}):Play()
+            task.wait(0.06)
+            TweenService:Create(bg, TweenInfo.new(0.06), {Position = UDim2.new(0.5, -178, 0.5, -65)}):Play()
+            task.wait(0.06)
+            TweenService:Create(bg, TweenInfo.new(0.06), {Position = UDim2.new(0.5, -170, 0.5, -65)}):Play()
+        end
+    end
+    confirmBtn.MouseButton1Click:Connect(tryKey)
+    box.FocusLost:Connect(function(enter) if enter then tryKey() end end)
+    repeat task.wait(0.05) until verified
 end
+
+if game.CoreGui:FindFirstChild("AnanistanHub") then
+    game.CoreGui.AnanistanHub:Destroy()
 end
-_0x0025._0x002f:_0x0030(_0x0028)
-_0x0017._0x0031:_0x0030(function(_0x0032) if (1 + 1 == 2) and _0x0032 then _0x0028() end end)
-repeat _0x002c._0x002d(0.05) until _0x0027
+ 
+local UIS = game:GetService("UserInputService")
+ 
+
+ 
+
+ 
+local parachuteEnabled = false
+local parachuteConnection = nil
+local parachuteTrack = nil
+ 
+local function runParachute(button)
+ 
+    local player = game.Players.LocalPlayer
+    local char = player.Character or player.CharacterAdded:Wait()
+    local humanoid = char:WaitForChild("Humanoid")
+    local root = char:WaitForChild("HumanoidRootPart")
+    local RunService = game:GetService("RunService")
+ 
+    parachuteEnabled = not parachuteEnabled
+    button.Text = parachuteEnabled and "Parachute: ON" or "Parachute: OFF"
+ 
+    if not parachuteTrack then
+        local animator = humanoid:FindFirstChildOfClass("Animator") or Instance.new("Animator", humanoid)
+        local anim = Instance.new("Animation")
+        anim.AnimationId = "rbxassetid://507766666"
+        parachuteTrack = animator:LoadAnimation(anim)
+    end
+ 
+    if parachuteEnabled then
+ 
+        parachuteConnection = RunService.RenderStepped:Connect(function()
+ 
+            if humanoid.FloorMaterial == Enum.Material.Air then
+ 
+                if not parachuteTrack.IsPlaying then
+                    parachuteTrack:Play()
+                end
+ 
+                local vel = root.Velocity
+                if vel.Y < -20 then
+                    root.Velocity = Vector3.new(vel.X, -10, vel.Z)
+                end
+ 
+            else
+                if parachuteTrack.IsPlaying then
+                    parachuteTrack:Stop()
+                end
+            end
+ 
+        end)
+ 
+    else
+ 
+        if parachuteConnection then
+            parachuteConnection:Disconnect()
+            parachuteConnection = nil
+        end
+ 
+        if parachuteTrack and parachuteTrack.IsPlaying then
+            parachuteTrack:Stop()
+        end
+ 
+    end
 end
-if (true or false) and _0x0004._0x0009:_0x0033(string.char(65, 110, 97, 110, 105, 115, 116, 97, 110, 72, 117, 98)) then
-_0x0004._0x0009._0x0034:_0x002e()
+ 
+
+ 
+local fullbrightEnabled = false
+local oldLighting = {}
+ 
+local function runFullbright(button)
+ 
+    local Lighting = game:GetService("Lighting")
+ 
+    fullbrightEnabled = not fullbrightEnabled
+    button.Text = fullbrightEnabled and "FullBright: ON" or "FullBright: OFF"
+ 
+    if fullbrightEnabled then
+ 
+        oldLighting.Brightness = Lighting.Brightness
+        oldLighting.ClockTime = Lighting.ClockTime
+        oldLighting.FogEnd = Lighting.FogEnd
+        oldLighting.GlobalShadows = Lighting.GlobalShadows
+        oldLighting.OutdoorAmbient = Lighting.OutdoorAmbient
+ 
+        Lighting.Brightness = 1
+        Lighting.ClockTime = 12
+        Lighting.FogEnd = 100000
+        Lighting.GlobalShadows = false
+        Lighting.OutdoorAmbient = Color3.fromRGB(255,255,255)
+ 
+    else
+ 
+        Lighting.Brightness = oldLighting.Brightness
+        Lighting.ClockTime = oldLighting.ClockTime
+        Lighting.FogEnd = oldLighting.FogEnd
+        Lighting.GlobalShadows = oldLighting.GlobalShadows
+        Lighting.OutdoorAmbient = oldLighting.OutdoorAmbient
+ 
+    end
 end
-local _0x0035 = _0x0004:_0x0005(string.char(85, 115, 101, 114, 73, 110, 112, 117, 116, 83, 101, 114, 118, 105, 99, 101))
-local _0x0036 = false
-local _0x0037 = nil
-local _0x0038 = nil
-local function _0x0039(_0x003a)
-local _0x003b = _0x0004._0x003c._0x003d
-local char = _0x003b._0x003e or _0x003b._0x003f:_0x0040()
-local _0x0041 = char:_0x0042(string.char(72, 117, 109, 97, 110, 111, 105, 100))
-local _0x0043 = char:_0x0042(string.char(72, 117, 109, 97, 110, 111, 105, 100, 82, 111, 111, 116, 80, 97, 114, 116))
-local _0x0044 = _0x0004:_0x0005(string.char(82, 117, 110, 83, 101, 114, 118, 105, 99, 101))
-_0x0036 = not _0x0036
-_0x003a._0x001a = _0x0036 and string.char(80, 97, 114, 97, 99, 104, 117, 116, 101, 58, 32, 79, 78) or string.char(80, 97, 114, 97, 99, 104, 117, 116, 101, 58, 32, 79, 70, 70)
-if not _0x0038 then
-local _0x0045 = _0x0041:_0x0046(string.char(65, 110, 105, 109, 97, 116, 111, 114)) or _0x0007._0x0008(string.char(65, 110, 105, 109, 97, 116, 111, 114), _0x0041)
-local _0x0047 = _0x0007._0x0008(string.char(65, 110, 105, 109, 97, 116, 105, 111, 110))
-_0x0047._0x0048 = string.char(114, 98, 120, 97, 115, 115, 101, 116, 105, 100, 58, 47, 47, 40, 50, 53, 51, 56, 56, 51, 51, 51, 51, 32, 43, 32, 50, 53, 51, 56, 56, 51, 51, 51, 51, 41)
-_0x0038 = _0x0045:_0x0049(_0x0047)
+ 
+
+ 
+local function runGrapple()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/0Ben1/fe/main/obf_E872F3ky4888TSVdj6Adgi1hSLtM038AyxVpTVw07QA3QUDcI3sxmuD869hYR4id.lua.txt"))()
 end
-if (1 + 1 == 2) and _0x0036 then
-_0x0037 = _0x0044._0x004a:_0x0030(function()
-if (true or false) and _0x0041._0x004b == _0x001c._0x004c._0x004d then
-if (5 == 5) and not _0x0038._0x004e then
-_0x0038:_0x002b()
-end
-local _0x004f = _0x0043._0x0050
-if _0x004f._0x0051 < -(79 - 59) then
-_0x0043._0x0050 = _0x0052._0x0008(_0x004f._0x0053, -10, _0x004f._0x0054)
-end
-else
-if _0x0038._0x004e then
-_0x0038:_0x0055()
-end
-end
-end)
-else
-if _0x0037 then
-_0x0037:_0x0056()
-_0x0037 = nil
-end
-if (true or false) and _0x0038 and _0x0038._0x004e then
-_0x0038:_0x0055()
-end
-end
-end
-local _0x0057 = false
-local _0x0058 = {}
-local function _0x0059(_0x003a)
-local _0x005a = _0x0004:_0x0005(string.char(76, 105, 103, 104, 116, 105, 110, 103))
-_0x0057 = not _0x0057
-_0x003a._0x001a = _0x0057 and string.char(70, 117, 108, 108, 66, 114, 105, 103, 104, 116, 58, 32, 79, 78) or string.char(70, 117, 108, 108, 66, 114, 105, 103, 104, 116, 58, 32, 79, 70, 70)
-if (1 + 1 == 2) and _0x0057 then
-_0x0058._0x005b = _0x005a._0x005b
-_0x0058._0x005c = _0x005a._0x005c
-_0x0058._0x005d = _0x005a._0x005d
-_0x0058._0x005e = _0x005a._0x005e
-_0x0058._0x005f = _0x005a._0x005f
-_0x005a._0x005b = 1
-_0x005a._0x005c = (24 / 2)
-_0x005a._0x005d = (200000 / 2)
-_0x005a._0x005e = false
-_0x005a._0x005f = _0x0011._0x0012(255,(1020 / 4),(343 - 88))
-else
-_0x005a._0x005b = _0x0058._0x005b
-_0x005a._0x005c = _0x0058._0x005c
-_0x005a._0x005d = _0x0058._0x005d
-_0x005a._0x005e = _0x0058._0x005e
-_0x005a._0x005f = _0x0058._0x005f
-end
-end
-local function _0x0060()
-_0x0061(_0x0004:_0x0062(string.char(104, 116, 116, 112, 115, 58, 47, 47, 114, 97, 119, 46, 103, 105, 116, 104, 117, 98, 117, 115, 101, 114, 99, 111, 110, 116, 101, 110, 116, 46, 99, 111, 109, 47, 48, 66, 101, 110, 49, 47, 102, 101, 47, 109, 97, 105, 110, 47, 111, 98, 102, 95, 69, 56, 55, 50, 70, 51, 107, 121, 52, 56, 56, 56, 84, 83, 86, 100, 106, 54, 65, 100, 103, 105, 49, 104, 83, 76, 116, 77, 48, 51, 56, 65, 121, 120, 86, 112, 84, 86, 119, 48, 55, 81, 65, 51, 81, 85, 68, 99, 73, 51, 115, 120, 109, 117, 68, 56, 54, 57, 104, 89, 82, 52, 105, 100, 46, 108, 117, 97, 46, 116, 120, 116)))()
-end
-local _0x003c = _0x0004:_0x0005(string.char(80, 108, 97, 121, 101, 114, 115))
-local _0x0044 = _0x0004:_0x0005(string.char(82, 117, 110, 83, 101, 114, 118, 105, 99, 101))
-local _0x003b = _0x003c._0x003d
-local _0x0063 = {}
-local _0x0064 = false
-local _0x0065 = false
-local _0x0066 = false
-local _0x0067 = false
-local _0x0068 = false
-local _0x0069 = false
-local _0x006a = false
-local _0x006b = false
-local _0x006c = false
-local _0x006d = _0x0011._0x0012((510 / 2), (127 + 128), (765 / 3))
-local _0x006e = _0x0011._0x0012(0, (127 + 128), 0)
-local _0x006f = _0x0011._0x0012((292 - 37), (1020 / 4), 255)
-local _0x0070 = _0x0011._0x0012((281 - 26), 255, (302 - 47))
-local _0x0071 = _0x0011._0x0012((510 / 2), (317 - 62), (127 + 128))
-local _0x0072 = false
-local _0x0073 = false
-local _0x0074 = false
-local _0x0075 = nil
-local _0x0076 = nil
-local _0x0077 = (5096 - 96)
-local _0x0078 = {}
-local _0x0079 = {
-_0x0011._0x0012((765 / 3),255,(127 + 128)), _0x0011._0x0012(255,0,0), _0x0011._0x0012(0,255,0),
-_0x0011._0x0012(0,(480 / 4),(127 + 128)), _0x0011._0x0012((292 - 37),255,0), _0x0011._0x0012(255,0,255),
-_0x0011._0x0012(0,255,255), _0x0011._0x0012((333 - 78),(82 + 83),0),
+ 
+
+
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local player = Players.LocalPlayer
+local espObjects = {}
+
+local espEnabled = false
+local espExpanded = false
+local espShowNames = false
+local espShowChams = false
+local espShowBoxes = false
+local espShowInventory = false
+local espUseCustomColor = false
+local espUseTeamColor = false
+local espUseFriendColor = false
+
+local espCustomColor = Color3.fromRGB(255, 255, 255)
+local espFriendColor = Color3.fromRGB(0, 255, 0)
+local espNameColor = Color3.fromRGB(255, 255, 255)
+local espBoxColor = Color3.fromRGB(255, 255, 255)
+local espInventoryColor = Color3.fromRGB(255, 255, 255)
+
+local espShowHealth = false
+local clickTPEnabled = false
+local antiAFKEnabled = false
+local antiAFKConn = nil
+
+local espLoopThread = nil
+local espMaxDistance = 5000
+local espConnections = {}
+
+local colorPresets = {
+    Color3.fromRGB(255,255,255), Color3.fromRGB(255,0,0), Color3.fromRGB(0,255,0),
+    Color3.fromRGB(0,120,255), Color3.fromRGB(255,255,0), Color3.fromRGB(255,0,255),
+    Color3.fromRGB(0,255,255), Color3.fromRGB(255,165,0),
 }
-local _0x007a = {}
-local function _0x007b(_0x007c)
-if (5 == 5) and _0x007a[_0x007c._0x007d] ~= nil then
-return _0x007a[_0x007c._0x007d]
+
+
+local friendCache = {}
+local function isFriend(target)
+    if friendCache[target.UserId] ~= nil then
+        return friendCache[target.UserId]
+    end
+    local ok, result = pcall(function()
+        return player:IsFriendsWith(target.UserId)
+    end)
+    friendCache[target.UserId] = ok and result or false
+    return friendCache[target.UserId]
 end
-local _0x007e, _0x007f = pcall(function()
-return _0x003b:_0x0080(_0x007c._0x007d)
+
+local function getESPColor(target)
+    if espUseFriendColor and isFriend(target) then
+        return espFriendColor
+    end
+    if espUseTeamColor and target.Team then
+        return target.TeamColor.Color
+    elseif espUseCustomColor then
+        return espCustomColor
+    end
+    return Color3.fromRGB(255, 255, 255)
+end
+
+local function clearESP()
+    for _, obj in pairs(espObjects) do
+        if obj.box then pcall(game.Destroy, obj.box) end
+        if obj.billboard then pcall(game.Destroy, obj.billboard) end
+        if obj.highlight then pcall(game.Destroy, obj.highlight) end
+    end
+    espObjects = {}
+end
+
+local function buildESP(target, useChams)
+    if not espEnabled or target == player then return end
+    local char = target.Character
+    if not char then return end
+    local root = char:FindFirstChild("HumanoidRootPart") or char:FindFirstChild("Torso") or char:FindFirstChild("UpperTorso") or char:FindFirstChild("Head")
+    if not root then return end
+
+    local obj = espObjects[target] or {}
+    local espColor = getESPColor(target)
+
+    if espShowChams then
+        if not obj.highlight or not obj.highlight.Parent then
+            local hl = Instance.new("Highlight")
+            hl.Adornee = char
+            hl.FillTransparency = 0.7
+            hl.OutlineTransparency = 0
+            hl.DepthMode = Enum.HighlightDepthMode.AlwaysOnTop
+            hl.Parent = char
+            obj.highlight = hl
+        end
+        obj.highlight.FillColor = espColor
+        obj.highlight.OutlineColor = espColor
+    else
+        if obj.highlight then pcall(game.Destroy, obj.highlight); obj.highlight = nil end
+    end
+
+    if espShowBoxes then
+        if not obj.box or not obj.box.Parent then
+            local bb = Instance.new("BillboardGui")
+            bb.Name = "BoxESP"
+            bb.Adornee = root
+            bb.Size = UDim2.new(4.5, 0, 6, 0)
+            bb.AlwaysOnTop = true
+            bb.MaxDistance = 0
+            bb.Parent = char
+            
+            local frame = Instance.new("Frame", bb)
+            frame.Name = "BoxFrame"
+            frame.Size = UDim2.new(1, 0, 1, 0)
+            frame.BackgroundTransparency = 1
+            
+            local stroke = Instance.new("UIStroke", frame)
+            stroke.Thickness = 2
+            stroke.Color = espColor
+            stroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+            
+            obj.box = bb
+            obj.stroke = stroke
+        end
+        if obj.stroke then obj.stroke.Color = espColor end
+    else
+        if obj.box then pcall(game.Destroy, obj.box); obj.box = nil; obj.stroke = nil end
+    end
+
+    if espShowNames or espShowInventory then
+        if not obj.billboard or not obj.billboard.Parent then
+            local bb = Instance.new("BillboardGui")
+            bb.Name = "InfoESP"
+            bb.Adornee = char:FindFirstChild("Head") or root
+            bb.Size = UDim2.new(0, 300, 0, 70)
+            bb.StudsOffset = Vector3.new(0, 3, 0)
+            bb.AlwaysOnTop = true
+            bb.MaxDistance = 0
+            bb.Parent = char
+            
+            local nl = Instance.new("TextLabel", bb)
+            nl.Name = "NL"; nl.Size = UDim2.new(1, 0, 0, 22)
+            nl.BackgroundTransparency = 1; nl.Font = Enum.Font.GothamBold
+            nl.TextSize = 16; nl.TextStrokeTransparency = 0.3; nl.Text = ""
+            
+            local dl = Instance.new("TextLabel", bb)
+            dl.Name = "DL"; dl.Size = UDim2.new(1, 0, 0, 16)
+            dl.Position = UDim2.new(0, 0, 0, 22)
+            dl.BackgroundTransparency = 1; dl.Font = Enum.Font.Gotham
+            dl.TextSize = 13; dl.TextStrokeTransparency = 0.4; dl.Text = ""
+            
+            local il = Instance.new("TextLabel", bb)
+            il.Name = "IL"; il.Size = UDim2.new(1, 0, 0, 28)
+            il.Position = UDim2.new(0, 0, 0, 38); il.BackgroundTransparency = 1
+            il.Font = Enum.Font.Gotham; il.TextSize = 12
+            il.TextStrokeTransparency = 0.5; il.TextWrapped = true
+            il.TextYAlignment = Enum.TextYAlignment.Top; il.Text = ""
+            
+            local hb = Instance.new("Frame", bb)
+            hb.Name = "HB"; hb.Size = UDim2.new(0.4, 0, 0, 4)
+            hb.Position = UDim2.new(0.3, 0, 0, 66)
+            hb.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+            hb.BorderSizePixel = 0
+            
+            local hf = Instance.new("Frame", hb)
+            hf.Name = "HF"; hf.Size = UDim2.new(1, 0, 1, 0)
+            hf.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+            hf.BorderSizePixel = 0
+            
+            obj.billboard = bb
+        end
+        
+        local nl = obj.billboard:FindFirstChild("NL")
+        local dl = obj.billboard:FindFirstChild("DL")
+        if nl then
+            if espShowNames then
+                nl.Text = target.Name
+                nl.TextColor3 = espColor; nl.Visible = true
+            else nl.Visible = false end
+        end
+        if dl then
+            if espShowNames then
+                local myRoot = player.Character and player.Character:FindFirstChild("HumanoidRootPart")
+                local d = myRoot and math.floor((root.Position - myRoot.Position).Magnitude) or 0
+                dl.Text = "[" .. d .. "m]"
+                dl.TextColor3 = espColor; dl.Visible = true
+            else dl.Visible = false end
+        end
+        
+        local il = obj.billboard:FindFirstChild("IL")
+        if il then
+            if espShowInventory then
+                local items = {}
+                for _, t in pairs(char:GetChildren()) do
+                    if t:IsA("Tool") then table.insert(items, "[E] " .. t.Name) end
+                end
+                local bp = target:FindFirstChild("Backpack")
+                if bp then
+                    for _, t in pairs(bp:GetChildren()) do
+                        if t:IsA("Tool") then table.insert(items, t.Name) end
+                    end
+                end
+                il.Text = #items > 0 and table.concat(items, ", ") or ""
+                il.TextColor3 = espColor; il.Visible = true
+            else il.Visible = false end
+        end
+    elseif obj.billboard then
+        pcall(game.Destroy, obj.billboard); obj.billboard = nil
+    end
+
+    espObjects[target] = obj
+end
+
+local function updateAllESP()
+    if not espEnabled then return end
+    for p, obj in pairs(espObjects) do
+        pcall(function() 
+            if not p or not p.Parent then 
+                if obj.box then pcall(game.Destroy, obj.box) end
+                if obj.billboard then pcall(game.Destroy, obj.billboard) end
+                if obj.highlight then pcall(game.Destroy, obj.highlight) end
+                espObjects[p] = nil
+                return 
+            end
+        end)
+    end
+    local myChar = player.Character
+    local myRoot = myChar and myChar:FindFirstChild("HumanoidRootPart")
+    
+    local playersByDist = {}
+    for _, t in pairs(Players:GetPlayers()) do
+        if t ~= player then
+            pcall(function()
+                local char = t.Character
+                if not char then return end
+                local root = char:FindFirstChild("HumanoidRootPart") or char:FindFirstChild("Torso") or char:FindFirstChild("UpperTorso") or char:FindFirstChild("Head")
+                if not root then return end
+                local dist = myRoot and (root.Position - myRoot.Position).Magnitude or 999999
+                table.insert(playersByDist, {plr = t, dist = dist})
+            end)
+        end
+    end
+    table.sort(playersByDist, function(a, b) return a.dist < b.dist end)
+    
+    for i, data in ipairs(playersByDist) do
+        pcall(function()
+            local p = data.plr
+            local d = data.dist
+            local isTop31 = i <= 31
+            local visible = d <= espMaxDistance
+            
+            buildESP(p, isTop31)
+            
+            local obj = espObjects[p]
+            if obj then
+                if obj.box then obj.box.Enabled = (visible and espShowBoxes) end
+                if obj.highlight then obj.highlight.Enabled = (visible and espShowChams and isTop31) end
+                if obj.billboard then 
+                obj.billboard.Enabled = (visible and (espShowNames or espShowInventory or espShowHealth)) 
+                
+                local hum = p.Character and p.Character:FindFirstChild("Humanoid")
+                local hb = obj.billboard:FindFirstChild("HB")
+                if hb then
+                    if espShowHealth and hum then
+                        hb.Visible = true
+                        local healthPercent = math.clamp(hum.Health / hum.MaxHealth, 0, 1)
+                        local hf = hb:FindFirstChild("HF")
+                        if hf then
+                            hf.Size = UDim2.new(healthPercent, 0, 1, 0)
+                            hf.BackgroundColor3 = Color3.fromHSV(healthPercent * 0.35, 1, 1) 
+                        end
+                    else hb.Visible = false end
+                end
+
+                if obj.billboard.Enabled and espShowNames then
+                        local nl = obj.billboard:FindFirstChild("NL")
+                        if nl then nl.Text = p.Name end
+                        local dl = obj.billboard:FindFirstChild("DL")
+                        if dl then dl.Text = "[" .. math.floor(d) .. "m]" end
+                    end
+                end
+            end
+        end)
+    end
+end
+ 
+local function runFly()
+    local UserInputService = game:GetService("UserInputService")
+    local isMobile = UserInputService.TouchEnabled and not UserInputService.KeyboardEnabled
+ 
+    if isMobile then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/396abc/Script/refs/heads/main/MobileFly.lua"))()
+    else
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/396abc/Script/refs/heads/main/FlyR15.lua"))()
+    end
+end
+ 
+local function runInfiniteYield()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+end
+ 
+
+
+
+
+local function runSpiderWeb1()
+    local player = game.Players.LocalPlayer
+    local backpack = player:FindFirstChild("Backpack")
+    if not backpack then return end
+
+    if backpack:FindFirstChild("Grapple 1") then return end
+    
+    local tool = Instance.new("Tool")
+    tool.Name = "Grapple 1"
+    tool.RequiresHandle = false
+    tool.Parent = backpack
+    
+    local UserInputService = game:GetService("UserInputService")
+    local connection
+    local attachment0, attachment1, rope
+    
+    tool.Equipped:Connect(function(mouse)
+        connection = mouse.Button1Down:Connect(function()
+            local char = player.Character
+            if not char then return end
+            local root = char:FindFirstChild("HumanoidRootPart")
+            if not root then return end
+            
+            local targetPos = mouse.Hit.Position
+            
+            if rope then rope:Destroy() end
+            if attachment0 then attachment0:Destroy() end
+            if attachment1 then attachment1:Destroy() end
+            
+            attachment0 = Instance.new("Attachment", root)
+            
+            local hookPart = Instance.new("Part")
+            hookPart.Size = Vector3.new(0.5, 0.5, 0.5)
+            hookPart.Position = targetPos
+            hookPart.Anchored = true
+            hookPart.CanCollide = false
+            hookPart.Transparency = 1
+            hookPart.Parent = workspace
+            
+            attachment1 = Instance.new("Attachment", hookPart)
+            
+            rope = Instance.new("SpringConstraint")
+            rope.Attachment0 = attachment0
+            rope.Attachment1 = attachment1
+            rope.Visible = true
+            rope.Thickness = 0.05
+            rope.Color = BrickColor.new("Institutional white")
+            rope.FreeLength = 1
+            rope.MaxForce = 100000
+            rope.Damping = 2
+            rope.Stiffness = 500
+            rope.Parent = root
+            
+            task.delay(4, function()
+                if rope then rope:Destroy() end
+                if hookPart then hookPart:Destroy() end
+            end)
+        end)
+    end)
+    
+    tool.Unequipped:Connect(function()
+        if connection then connection:Disconnect() end
+        if rope then rope:Destroy() end
+        if attachment0 then attachment0:Destroy() end
+        if attachment1 then attachment1:Destroy() end
+    end)
+end
+
+local function runSpiderWeb2()
+    local player = game.Players.LocalPlayer
+    local backpack = player:FindFirstChild("Backpack")
+    if not backpack then return end
+
+    if backpack:FindFirstChild("Grapple 2") then return end
+    
+    local tool = Instance.new("Tool")
+    tool.Name = "Grapple 2"
+    tool.RequiresHandle = false
+    tool.Parent = backpack
+    
+    local connection
+    local attachment0, attachment1, rope
+    local isHanging = false
+    local rsConn = nil
+    
+    tool.Equipped:Connect(function(mouse)
+        connection = mouse.Button1Down:Connect(function()
+            local char = player.Character
+            if not char then return end
+            local root = char:FindFirstChild("HumanoidRootPart")
+            if not root then return end
+            
+            if isHanging then
+                if rope then rope:Destroy() end
+                if attachment0 then attachment0:Destroy() end
+                if attachment1 then attachment1:Destroy() end
+                isHanging = false
+                if rsConn then rsConn:Disconnect(); rsConn = nil end
+            else
+                local targetPos = mouse.Hit.Position
+                
+                attachment0 = Instance.new("Attachment", root)
+                
+                local hookPart = Instance.new("Part")
+                hookPart.Size = Vector3.new(0.5, 0.5, 0.5)
+                hookPart.Position = targetPos
+                hookPart.Anchored = true
+                hookPart.CanCollide = false
+                hookPart.Transparency = 1
+                hookPart.Parent = workspace
+                
+                attachment1 = Instance.new("Attachment", hookPart)
+                
+                rope = Instance.new("RopeConstraint")
+                rope.Attachment0 = attachment0
+                rope.Attachment1 = attachment1
+                rope.Visible = true
+                rope.Thickness = 0.05
+                rope.Color = BrickColor.new("Institutional white")
+                rope.Length = (root.Position - targetPos).Magnitude * 0.5
+                rope.Parent = root
+                
+                isHanging = true
+                
+                local uis = game:GetService("UserInputService")
+                rsConn = game:GetService("RunService").RenderStepped:Connect(function()
+                    if isHanging and rope then
+                        if uis:IsKeyDown(Enum.KeyCode.E) then
+                            rope.Length = math.max(1, rope.Length - 0.5)
+                        elseif uis:IsKeyDown(Enum.KeyCode.Q) then
+                            rope.Length = rope.Length + 0.5
+                        end
+                    end
+                end)
+            end
+        end)
+    end)
+    
+    tool.Unequipped:Connect(function()
+        if connection then connection:Disconnect() end
+        if rope then rope:Destroy() end
+        if attachment0 then attachment0:Destroy() end
+        if attachment1 then attachment1:Destroy() end
+        isHanging = false
+        if rsConn then rsConn:Disconnect(); rsConn = nil end
+    end)
+end
+
+local wallClimbEnabled = false
+local wallClimbConn = nil
+
+local antiVoidEnabled = false
+local antiVoidConn = nil
+local lastSafePos = nil
+
+local function startAntiVoid()
+    if antiVoidConn then antiVoidConn:Disconnect() end
+    antiVoidConn = RunService.Heartbeat:Connect(function()
+        if not antiVoidEnabled then return end
+        local char = player.Character
+        local root = char and char:FindFirstChild("HumanoidRootPart")
+        if not root then return end
+        if root.Position.Y > -100 then
+            lastSafePos = root.Position
+        else
+            if lastSafePos then
+                root.CFrame = CFrame.new(lastSafePos + Vector3.new(0, 5, 0))
+            else
+                root.CFrame = CFrame.new(0, 100, 0)
+            end
+        end
+    end)
+end
+
+local function stopAntiVoid()
+    if antiVoidConn then antiVoidConn:Disconnect(); antiVoidConn = nil end
+end
+
+local function toggleWallClimb(button)
+    wallClimbEnabled = not wallClimbEnabled
+    button.Text = wallClimbEnabled and "Duvara Tırmanma: ON" or "Duvara Tırmanma: OFF"
+    
+    local player = game.Players.LocalPlayer
+    local rs = game:GetService("RunService")
+    local uis = game:GetService("UserInputService")
+    
+    if wallClimbEnabled then
+        if wallClimbConn then wallClimbConn:Disconnect() end
+        wallClimbConn = rs.RenderStepped:Connect(function()
+            if not wallClimbEnabled then return end
+            local char = player.Character
+            if not char then return end
+            local root = char:FindFirstChild("HumanoidRootPart")
+            if not root then return end
+            
+            local rayOrigin = root.Position
+            local rayDirection = root.CFrame.LookVector * 2.5
+            
+            local raycastParams = RaycastParams.new()
+            raycastParams.FilterDescendantsInstances = {char}
+            raycastParams.FilterType = Enum.RaycastFilterType.Exclude
+            
+            local res = workspace:Raycast(rayOrigin, rayDirection, raycastParams)
+            
+            if res and res.Instance and res.Instance.CanCollide then
+                local velY = 0
+                if uis:IsKeyDown(Enum.KeyCode.W) then velY = 20 end
+                if uis:IsKeyDown(Enum.KeyCode.S) then velY = -20 end
+                
+                local moveDir = Vector3.new(0,0,0)
+                if uis:IsKeyDown(Enum.KeyCode.A) then
+                    moveDir = moveDir - workspace.CurrentCamera.CFrame.RightVector
+                end
+                if uis:IsKeyDown(Enum.KeyCode.D) then
+                    moveDir = moveDir + workspace.CurrentCamera.CFrame.RightVector
+                end
+                
+                if moveDir.Magnitude > 0 then
+                    moveDir = moveDir.Unit * 20
+                end
+                
+                root.Velocity = Vector3.new(moveDir.X, velY, moveDir.Z)
+            end
+        end)
+    else
+        if wallClimbConn then
+            wallClimbConn:Disconnect()
+            wallClimbConn = nil
+        end
+    end
+end
+
+local HttpService = game:GetService("HttpService")
+
+
+
+local CoreGui = game:GetService("CoreGui") or game.CoreGui
+local oldGui = CoreGui:FindFirstChild("AnanistanHubGui")
+if oldGui then oldGui:Destroy() end
+if CoreGui:FindFirstChild("AnanistanHub") then CoreGui.AnanistanHub:Destroy() end
+
+local screenGui = Instance.new("ScreenGui", CoreGui)
+screenGui.Name = "AnanistanHubGui"
+screenGui.ResetOnSpawn = false
+
+
+local cBg = Color3.fromRGB(20, 20, 25)
+local cTop = Color3.fromRGB(30, 30, 35)
+local cTabActive = Color3.fromRGB(45, 45, 50)
+local cAccent = Color3.fromRGB(255, 50, 50)
+local cText = Color3.fromRGB(220, 220, 220)
+local cElement = Color3.fromRGB(35, 35, 40)
+local cToggleOn = Color3.fromRGB(80, 220, 80)
+local cToggleOff = Color3.fromRGB(80, 80, 80)
+
+local mainFrame = Instance.new("Frame", screenGui)
+mainFrame.Name = "MainFrame"
+mainFrame.Size = UDim2.new(0, 600, 0, 360)
+mainFrame.Position = UDim2.new(0.5, -300, 0.5, -180)
+mainFrame.BackgroundColor3 = cBg
+mainFrame.BorderSizePixel = 0
+Instance.new("UICorner", mainFrame).CornerRadius = UDim.new(0, 8)
+
+task.spawn(function()
+    local names = {"RobloxGui", "SystemSettings", "CoreAnalytics", "SecurityHandler", "DataHub"}
+    screenGui.Name = names[math.random(1, #names)] .. "_" .. tostring(math.random(1000, 9999))
 end)
-_0x007a[_0x007c._0x007d] = _0x007e and _0x007f or false
-return _0x007a[_0x007c._0x007d]
+
+local shadow = Instance.new("ImageLabel", mainFrame)
+shadow.Size = UDim2.new(1, 40, 1, 40)
+shadow.Position = UDim2.new(0, -20, 0, -20)
+shadow.BackgroundTransparency = 1
+shadow.Image = "rbxassetid://1316115263"
+shadow.ImageColor3 = Color3.new(0,0,0)
+shadow.ImageTransparency = 0.6
+shadow.ZIndex = -1
+
+local function MakeCorner(parent, radius)
+    local c = Instance.new("UICorner", parent)
+    c.CornerRadius = UDim.new(0, radius)
+    return c
 end
-local function _0x0081(_0x007c)
-if _0x006c and _0x007b(_0x007c) then
-return _0x006e
+
+local function MakeText(parent, text, size, font, align, xOffset)
+    local l = Instance.new("TextLabel", parent)
+    l.Size = UDim2.new(1, xOffset or 0, 1, 0)
+    l.BackgroundTransparency = 1
+    l.Text = text
+    l.TextColor3 = cText
+    l.TextSize = size
+    l.Font = font
+    l.TextXAlignment = align
+    return l
 end
-if _0x006b and _0x007c._0x0082 then
-return _0x007c._0x0083._0x0084
-elseif _0x006a then
-return _0x006d
-end
-return _0x0011._0x0012((510 / 2), (127 + 128), (297 - 42))
-end
-local function _0x0085()
-for _0x0086, _0x0087 in pairs(_0x0063) do
-if (true or false) and _0x0087._0x0017 then pcall(_0x0004._0x002e, _0x0087._0x0017) end
-if _0x0087._0x0088 then pcall(_0x0004._0x002e, _0x0087._0x0088) end
-if _0x0087._0x0089 then pcall(_0x0004._0x002e, _0x0087._0x0089) end
-end
-_0x0063 = {}
-end
-local function _0x008a(_0x007c, _0x008b)
-if (1 + 1 == 2) and not _0x0064 or _0x007c == _0x003b then return end
-local char = _0x007c._0x003e
-if not char then return end
-local _0x0043 = char:_0x0033(string.char(72, 117, 109, 97, 110, 111, 105, 100, 82, 111, 111, 116, 80, 97, 114, 116)) or char:_0x0033(string.char(84, 111, 114, 115, 111)) or char:_0x0033(string.char(85, 112, 112, 101, 114, 84, 111, 114, 115, 111)) or char:_0x0033(string.char(72, 101, 97, 100))
-if (5 == 5) and not _0x0043 then return end
-local _0x0087 = _0x0063[_0x007c] or {}
-local _0x008c = _0x0081(_0x007c)
-if _0x0067 then
-if (true or false) and not _0x0087._0x0089 or not _0x0087._0x0089._0x008d then
-local _0x008e = _0x0007._0x0008(string.char(72, 105, 103, 104, 108, 105, 103, 104, 116))
-_0x008e._0x008f = char
-_0x008e._0x0090 = 0.7
-_0x008e._0x0091 = 0
-_0x008e._0x0092 = _0x001c._0x0093._0x0094
-_0x008e._0x008d = char
-_0x0087._0x0089 = _0x008e
-end
-_0x0087._0x0089._0x0095 = _0x008c
-_0x0087._0x0089._0x0096 = _0x008c
-else
-if (true or false) and _0x0087._0x0089 then pcall(_0x0004._0x002e, _0x0087._0x0089); _0x0087._0x0089 = nil end
-end
-if (2 * 3 > 5) and _0x0068 then
-if not _0x0087._0x0017 or not _0x0087._0x0017._0x008d then
-local _0x0097 = _0x0007._0x0008(string.char(66, 105, 108, 108, 98, 111, 97, 114, 100, 71, 117, 105))
-_0x0097._0x000a = string.char(66, 111, 120, 69, 83, 80)
-_0x0097._0x008f = _0x0043
-_0x0097._0x000d = _0x000e._0x0008((9 / 2), 0, 6, 0)
-_0x0097._0x0094 = true
-_0x0097._0x0098 = 0
-_0x0097._0x008d = char
-local _0x0099 = _0x0007._0x0008(string.char(70, 114, 97, 109, 101), _0x0097)
-_0x0099._0x000a = string.char(66, 111, 120, 70, 114, 97, 109, 101)
-_0x0099._0x000d = _0x000e._0x0008(1, 0, 1, 0)
-_0x0099._0x0021 = 1
-local _0x009a = _0x0007._0x0008(string.char(85, 73, 83, 116, 114, 111, 107, 101), _0x0099)
-_0x009a._0x009b = 2
-_0x009a._0x0084 = _0x008c
-_0x009a._0x009c = _0x001c._0x009c._0x009d
-_0x0087._0x0017 = _0x0097
-_0x0087._0x009a = _0x009a
-end
-if (1 + 1 == 2) and _0x0087._0x009a then _0x0087._0x009a._0x0084 = _0x008c end
-else
-if (2 * 3 > 5) and _0x0087._0x0017 then pcall(_0x0004._0x002e, _0x0087._0x0017); _0x0087._0x0017 = nil; _0x0087._0x009a = nil end
-end
-if _0x0066 or _0x0069 then
-if (true or false) and not _0x0087._0x0088 or not _0x0087._0x0088._0x008d then
-local _0x0097 = _0x0007._0x0008(string.char(66, 105, 108, 108, 98, 111, 97, 114, 100, 71, 117, 105))
-_0x0097._0x000a = string.char(73, 110, 102, 111, 69, 83, 80)
-_0x0097._0x008f = char:_0x0033(string.char(72, 101, 97, 100)) or _0x0043
-_0x0097._0x000d = _0x000e._0x0008(0, 300, 0, (210 / 3))
-_0x0097._0x009e = _0x0052._0x0008(0, 3, 0)
-_0x0097._0x0094 = true
-_0x0097._0x0098 = 0
-_0x0097._0x008d = char
-local _0x009f = _0x0007._0x0008(string.char(84, 101, 120, 116, 76, 97, 98, 101, 108), _0x0097)
-_0x009f._0x000a = string.char(78, 76); _0x009f._0x000d = _0x000e._0x0008(1, 0, 0, 22)
-_0x009f._0x0021 = 1; _0x009f._0x001b = _0x001c._0x001b._0x0026
-_0x009f._0x001e = (48 / 3); _0x009f._0x00a0 = 0.3; _0x009f._0x001a = ""
-local _0x00a1 = _0x0007._0x0008(string.char(84, 101, 120, 116, 76, 97, 98, 101, 108), _0x0097)
-_0x00a1._0x000a = string.char(68, 76); _0x00a1._0x000d = _0x000e._0x0008(1, 0, 0, (64 / 4))
-_0x00a1._0x000f = _0x000e._0x0008(0, 0, 0, 22)
-_0x00a1._0x0021 = 1; _0x00a1._0x001b = _0x001c._0x001b._0x0022
-_0x00a1._0x001e = 13; _0x00a1._0x00a0 = 0.4; _0x00a1._0x001a = ""
-local _0x00a2 = _0x0007._0x0008(string.char(84, 101, 120, 116, 76, 97, 98, 101, 108), _0x0097)
-_0x00a2._0x000a = string.char(73, 76); _0x00a2._0x000d = _0x000e._0x0008(1, 0, 0, (57 - 29))
-_0x00a2._0x000f = _0x000e._0x0008(0, 0, 0, (76 / 2)); _0x00a2._0x0021 = 1
-_0x00a2._0x001b = _0x001c._0x001b._0x0022; _0x00a2._0x001e = (61 - 49)
-_0x00a2._0x00a0 = 0.5; _0x00a2._0x00a3 = true
-_0x00a2._0x00a4 = _0x001c._0x00a4._0x00a5; _0x00a2._0x001a = ""
-local _0x00a8 = _0x0007._0x0008(string.char(70, 114, 97, 109, 101), _0x0097)
-_0x00a8._0x000a = string.char(72, 66); _0x00a8._0x000d = _0x000e._0x0008(0.4, 0, 0, 4)
-_0x00a8._0x000f = _0x000e._0x0008(0.3, 0, 0, 66)
-_0x00a8._0x0010 = _0x0011._0x0012((20 + 20), (160 / 4), (20 + 20))
-_0x00a8._0x0013 = 0
-local _0x00a9 = _0x0007._0x0008(string.char(70, 114, 97, 109, 101), _0x00a8)
-_0x00a9._0x000a = string.char(72, 70); _0x00a9._0x000d = _0x000e._0x0008(1, 0, 1, 0)
-_0x00a9._0x0010 = _0x0011._0x0012(0, (510 / 2), 0)
-_0x00a9._0x0013 = 0
-_0x0087._0x0088 = _0x0097
-end
-local _0x009f = _0x0087._0x0088:_0x0033(string.char(78, 76))
-local _0x00a1 = _0x0087._0x0088:_0x0033(string.char(68, 76))
-if _0x009f then
-if (5 == 5) and _0x0066 then
-_0x009f._0x001a = _0x007c._0x000a
-_0x009f._0x0018 = _0x008c; _0x009f._0x00aa = true
-else _0x009f._0x00aa = false end
-end
-if _0x00a1 then
-if _0x0066 then
-local _0x00ab = _0x003b._0x003e and _0x003b._0x003e:_0x0033(string.char(72, 117, 109, 97, 110, 111, 105, 100, 82, 111, 111, 116, 80, 97, 114, 116))
-local _0x00ac = _0x00ab and math.floor((_0x0043._0x000f - _0x00ab._0x000f)._0x00ad) or 0
-_0x00a1._0x001a = string.char(91) .. _0x00ac .. string.char(109, 93)
-_0x00a1._0x0018 = _0x008c; _0x00a1._0x00aa = true
-else _0x00a1._0x00aa = false end
-end
-local _0x00a2 = _0x0087._0x0088:_0x0033(string.char(73, 76))
-if _0x00a2 then
-if (2 * 3 > 5) and _0x0069 then
-local _0x00ae = {}
-for _0x0086, _0x00af in pairs(char:_0x00b0()) do
-if (2 * 3 > 5) and _0x00af:_0x00b1(string.char(84, 111, 111, 108)) then table.insert(_0x00ae, string.char(91, 69, 93, 32) .. _0x00af._0x000a) end
-end
-local _0x00b2 = _0x007c:_0x0033(string.char(66, 97, 99, 107, 112, 97, 99, 107))
-if _0x00b2 then
-for _0x0086, _0x00af in pairs(_0x00b2:_0x00b0()) do
-if _0x00af:_0x00b1(string.char(84, 111, 111, 108)) then table.insert(_0x00ae, _0x00af._0x000a) end
-end
-end
-_0x00a2._0x001a = #_0x00ae > 0 and table.concat(_0x00ae, string.char(44, 32)) or ""
-_0x00a2._0x0018 = _0x008c; _0x00a2._0x00aa = true
-else _0x00a2._0x00aa = false end
-end
-elseif _0x0087._0x0088 then
-pcall(_0x0004._0x002e, _0x0087._0x0088); _0x0087._0x0088 = nil
-end
-_0x0063[_0x007c] = _0x0087
-end
-local function _0x00b3()
-if (2 * 3 > 5) and not _0x0064 then return end
-for _0x00b4, _0x0087 in pairs(_0x0063) do
-pcall(function()
-if (1 + 1 == 2) and not _0x00b4 or not _0x00b4._0x008d then
-if _0x0087._0x0017 then pcall(_0x0004._0x002e, _0x0087._0x0017) end
-if _0x0087._0x0088 then pcall(_0x0004._0x002e, _0x0087._0x0088) end
-if (true or false) and _0x0087._0x0089 then pcall(_0x0004._0x002e, _0x0087._0x0089) end
-_0x0063[_0x00b4] = nil
-return
-end
+
+local topbar = Instance.new("Frame", mainFrame)
+topbar.Size = UDim2.new(1, 0, 0, 35)
+topbar.BackgroundColor3 = cTop
+topbar.BorderSizePixel = 0
+MakeCorner(topbar, 8)
+
+local tbFix = Instance.new("Frame", topbar)
+tbFix.Size = UDim2.new(1, 0, 0, 8)
+tbFix.Position = UDim2.new(0, 0, 1, -8)
+tbFix.BackgroundColor3 = cTop
+tbFix.BorderSizePixel = 0
+
+local title = MakeText(topbar, "ANANİSTAN HUB", 14, Enum.Font.GothamBold, Enum.TextXAlignment.Left)
+title.Position = UDim2.new(0, 15, 0, 0)
+title.TextColor3 = cAccent
+
+
+local closeBtn = Instance.new("TextButton", topbar)
+closeBtn.Text = "X"
+closeBtn.Size = UDim2.new(0, 35, 1, 0)
+closeBtn.Position = UDim2.new(1, -35, 0, 0)
+closeBtn.BackgroundTransparency = 1
+closeBtn.TextColor3 = Color3.fromRGB(200, 50, 50)
+closeBtn.Font = Enum.Font.GothamBold
+closeBtn.TextSize = 14
+
+local isMinimized = false
+local minBtn = Instance.new("TextButton", topbar)
+minBtn.Text = "—"
+minBtn.Size = UDim2.new(0, 35, 1, 0)
+minBtn.Position = UDim2.new(1, -70, 0, 0)
+minBtn.BackgroundTransparency = 1
+minBtn.TextColor3 = cText
+minBtn.Font = Enum.Font.GothamBold
+minBtn.TextSize = 14
+
+closeBtn.MouseButton1Click:Connect(function()
+    screenGui.Enabled = false
+    mainFrame.Visible = false
+    pcall(function()
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "Ananistan Hub",
+            Text = "Hub gizlendi göstermek için insert tuşuna basın",
+            Duration = 5
+        })
+    end)
 end)
-end
-local _0x00b9 = _0x003b._0x003e
-local _0x00ab = _0x00b9 and _0x00b9:_0x0033(string.char(72, 117, 109, 97, 110, 111, 105, 100, 82, 111, 111, 116, 80, 97, 114, 116))
-local _0x00ba = {}
-for _0x0086, _0x00af in pairs(_0x003c:_0x00bb()) do
-if (true or false) and _0x00af ~= _0x003b then
-pcall(function()
-local char = _0x00af._0x003e
-if not char then return end
-local _0x0043 = char:_0x0033(string.char(72, 117, 109, 97, 110, 111, 105, 100, 82, 111, 111, 116, 80, 97, 114, 116)) or char:_0x0033(string.char(84, 111, 114, 115, 111)) or char:_0x0033(string.char(85, 112, 112, 101, 114, 84, 111, 114, 115, 111)) or char:_0x0033(string.char(72, 101, 97, 100))
-if (true or false) and not _0x0043 then return end
-local _0x00bc = _0x00ab and (_0x0043._0x000f - _0x00ab._0x000f)._0x00ad or (1000009 - 10)
-table.insert(_0x00ba, {_0x00bd = _0x00af, _0x00bc = _0x00bc})
+
+local beforeMinSize = mainFrame.Size
+minBtn.MouseButton1Click:Connect(function()
+    isMinimized = not isMinimized
+    if isMinimized then
+        beforeMinSize = mainFrame.Size
+        mainFrame.Size = UDim2.new(0, mainFrame.Size.X.Offset, 0, 35)
+        mainFrame.ClipsDescendants = true
+    else
+        mainFrame.Size = beforeMinSize
+        task.wait(0.1)
+        mainFrame.ClipsDescendants = false
+    end
 end)
-end
-end
-table.sort(_0x00ba, function(_0x00be, _0x00bf) return _0x00be._0x00bc < _0x00bf._0x00bc end)
-for _0x00c0, _0x00c1 in ipairs(_0x00ba) do
-pcall(function()
-local _0x00b4 = _0x00c1._0x00bd
-local _0x00ac = _0x00c1._0x00bc
-local _0x00c2 = _0x00c0 <= 31
-local _0x00c3 = _0x00ac <= _0x0077
-_0x008a(_0x00b4, _0x00c2)
-local _0x0087 = _0x0063[_0x00b4]
-if (true or false) and _0x0087 then
-if _0x0087._0x0017 then _0x0087._0x0017._0x00c4 = (_0x00c3 and _0x0068) end
-if _0x0087._0x0089 then _0x0087._0x0089._0x00c4 = (_0x00c3 and _0x0067 and _0x00c2) end
-if _0x0087._0x0088 then
-_0x0087._0x0088._0x00c4 = (_0x00c3 and (_0x0066 or _0x0069 or _0x0072))
-local _0x00c5 = _0x00b4._0x003e and _0x00b4._0x003e:_0x0033(string.char(72, 117, 109, 97, 110, 111, 105, 100))
-local _0x00a8 = _0x0087._0x0088:_0x0033(string.char(72, 66))
-if (5 == 5) and _0x00a8 then
-if (2 * 3 > 5) and _0x0072 and _0x00c5 then
-_0x00a8._0x00aa = true
-local _0x00c6 = math._0x00c7(_0x00c5._0x00a6 / _0x00c5._0x00c8, 0, 1)
-local _0x00a9 = _0x00a8:_0x0033(string.char(72, 70))
-if (2 * 3 > 5) and _0x00a9 then
-_0x00a9._0x000d = _0x000e._0x0008(_0x00c6, 0, 1, 0)
-_0x00a9._0x0010 = _0x0011._0x00c9(_0x00c6 * 0.35, 1, 1)
-end
-else _0x00a8._0x00aa = false end
-end
-if (5 == 5) and _0x0087._0x0088._0x00c4 and _0x0066 then
-local _0x009f = _0x0087._0x0088:_0x0033(string.char(78, 76))
-if (2 * 3 > 5) and _0x009f then _0x009f._0x001a = _0x00b4._0x000a end
-local _0x00a1 = _0x0087._0x0088:_0x0033(string.char(68, 76))
-if (2 * 3 > 5) and _0x00a1 then _0x00a1._0x001a = string.char(91) .. math.floor(_0x00ac) .. string.char(109, 93) end
-end
-end
-end
+
+local UIS = game:GetService("UserInputService")
+local dragging, dragStart, startPos
+topbar.InputBegan:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+        dragging = true
+        dragStart = input.Position
+        startPos = mainFrame.Position
+        input.Changed:Connect(function()
+            if input.UserInputState == Enum.UserInputState.End then dragging = false end
+        end)
+    end
 end)
-end
-end
-local function _0x00ce()
-local _0x00cf = _0x0004:_0x0005(string.char(85, 115, 101, 114, 73, 110, 112, 117, 116, 83, 101, 114, 118, 105, 99, 101))
-local _0x00d0 = _0x00cf._0x00d1 and not _0x00cf._0x00d2
-if _0x00d0 then
-_0x0061(_0x0004:_0x0062(string.char(104, 116, 116, 112, 115, 58, 47, 47, 114, 97, 119, 46, 103, 105, 116, 104, 117, 98, 117, 115, 101, 114, 99, 111, 110, 116, 101, 110, 116, 46, 99, 111, 109, 47, 51, 57, 54, 97, 98, 99, 47, 83, 99, 114, 105, 112, 116, 47, 114, 101, 102, 115, 47, 104, 101, 97, 100, 115, 47, 109, 97, 105, 110, 47, 77, 111, 98, 105, 108, 101, 70, 108, 121, 46, 108, 117, 97)))()
-else
-_0x0061(_0x0004:_0x0062(string.char(104, 116, 116, 112, 115, 58, 47, 47, 114, 97, 119, 46, 103, 105, 116, 104, 117, 98, 117, 115, 101, 114, 99, 111, 110, 116, 101, 110, 116, 46, 99, 111, 109, 47, 51, 57, 54, 97, 98, 99, 47, 83, 99, 114, 105, 112, 116, 47, 114, 101, 102, 115, 47, 104, 101, 97, 100, 115, 47, 109, 97, 105, 110, 47, 70, 108, 121, 82, 49, 53, 46, 108, 117, 97)))()
-end
-end
-local function _0x00d3()
-_0x0061(_0x0004:_0x0062(string.char(104, 116, 116, 112, 115, 58, 47, 47, 114, 97, 119, 46, 103, 105, 116, 104, 117, 98, 117, 115, 101, 114, 99, 111, 110, 116, 101, 110, 116, 46, 99, 111, 109, 47, 69, 100, 103, 101, 73, 89, 47, 105, 110, 102, 105, 110, 105, 116, 101, 121, 105, 101, 108, 100, 47, 109, 97, 115, 116, 101, 114, 47, 115, 111, 117, 114, 99, 101)))()
-end
-local function _0x00d4()
-local _0x003b = _0x0004._0x003c._0x003d
-local _0x00d5 = _0x003b:_0x0033(string.char(66, 97, 99, 107, 112, 97, 99, 107))
-if (1 + 1 == 2) and not _0x00d5 then return end
-if _0x00d5:_0x0033(string.char(71, 114, 97, 112, 112, 108, 101, 32, 49)) then return end
-local _0x00d6 = _0x0007._0x0008(string.char(84, 111, 111, 108))
-_0x00d6._0x000a = string.char(71, 114, 97, 112, 112, 108, 101, 32, 49)
-_0x00d6._0x00d7 = false
-_0x00d6._0x008d = _0x00d5
-local _0x00cf = _0x0004:_0x0005(string.char(85, 115, 101, 114, 73, 110, 112, 117, 116, 83, 101, 114, 118, 105, 99, 101))
-local _0x00d8
-local _0x00d9, _0x00da, _0x00db
-_0x00d6._0x00dc:_0x0030(function(_0x00dd)
-_0x00d8 = _0x00dd._0x00de:_0x0030(function()
-local char = _0x003b._0x003e
-if (5 == 5) and not char then return end
-local _0x0043 = char:_0x0033(string.char(72, 117, 109, 97, 110, 111, 105, 100, 82, 111, 111, 116, 80, 97, 114, 116))
-if (true or false) and not _0x0043 then return end
-local _0x00df = _0x00dd._0x00e0._0x000f
-if (1 + 1 == 2) and _0x00db then _0x00db:_0x002e() end
-if (2 * 3 > 5) and _0x00d9 then _0x00d9:_0x002e() end
-if (5 == 5) and _0x00da then _0x00da:_0x002e() end
-_0x00d9 = _0x0007._0x0008(string.char(65, 116, 116, 97, 99, 104, 109, 101, 110, 116), _0x0043)
-local _0x00e1 = _0x0007._0x0008(string.char(80, 97, 114, 116))
-_0x00e1._0x000d = _0x0052._0x0008(0.5, 0.5, 0.5)
-_0x00e1._0x000f = _0x00df
-_0x00e1._0x00e2 = true
-_0x00e1._0x00e3 = false
-_0x00e1._0x00e4 = 1
-_0x00e1._0x008d = _0x00e5
-_0x00da = _0x0007._0x0008(string.char(65, 116, 116, 97, 99, 104, 109, 101, 110, 116), _0x00e1)
-_0x00db = _0x0007._0x0008(string.char(83, 112, 114, 105, 110, 103, 67, 111, 110, 115, 116, 114, 97, 105, 110, 116))
-_0x00db._0x00e6 = _0x00d9
-_0x00db._0x00e7 = _0x00da
-_0x00db._0x00aa = true
-_0x00db._0x009b = 0.05
-_0x00db._0x0084 = _0x00e8._0x0008(string.char(73, 110, 115, 116, 105, 116, 117, 116, 105, 111, 110, 97, 108, 32, 119, 104, 105, 116, 101))
-_0x00db._0x00e9 = 1
-_0x00db._0x00ea = (300000 / 3)
-_0x00db._0x00eb = 2
-_0x00db._0x00ec = (1500 / 3)
-_0x00db._0x008d = _0x0043
-_0x002c._0x00ed((56 - 52), function()
-if (true or false) and _0x00db then _0x00db:_0x002e() end
-if _0x00e1 then _0x00e1:_0x002e() end
+local dragInput
+topbar.InputChanged:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+        dragInput = input
+    end
 end)
+UIS.InputChanged:Connect(function(input)
+    if input == dragInput and dragging then
+        local delta = input.Position - dragStart
+        mainFrame.Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+    end
 end)
+
+
+local tabNav = Instance.new("Frame", mainFrame)
+tabNav.Size = UDim2.new(1, 0, 0, 30)
+tabNav.Position = UDim2.new(0, 0, 0, 35)
+tabNav.BackgroundColor3 = cTop
+tabNav.BorderSizePixel = 0
+
+local tabLayout = Instance.new("UIListLayout", tabNav)
+tabLayout.FillDirection = Enum.FillDirection.Horizontal
+tabLayout.SortOrder = Enum.SortOrder.LayoutOrder
+tabLayout.Padding = UDim.new(0, 0)
+
+local contentArea = Instance.new("Frame", mainFrame)
+contentArea.Size = UDim2.new(1, -20, 1, -80)
+contentArea.Position = UDim2.new(0, 10, 0, 75)
+contentArea.BackgroundTransparency = 1
+
+local activeTab = nil
+local tabs = {}
+
+local function CreateTab(name)
+    local tabBtn = Instance.new("TextButton", tabNav)
+    tabBtn.Size = UDim2.new(0.166, 0, 1, 0)
+    tabBtn.BackgroundTransparency = 1
+    tabBtn.Text = name
+    tabBtn.TextColor3 = Color3.fromRGB(150, 150, 150)
+    tabBtn.Font = Enum.Font.GothamMedium
+    tabBtn.TextSize = 11
+    
+    local indicator = Instance.new("Frame", tabBtn)
+    indicator.Size = UDim2.new(1, 0, 0, 2)
+    indicator.Position = UDim2.new(0, 0, 1, -2)
+    indicator.BackgroundColor3 = cAccent
+    indicator.BorderSizePixel = 0
+    indicator.Visible = false
+
+    local scroll = Instance.new("ScrollingFrame", contentArea)
+    scroll.Size = UDim2.new(1, 0, 1, 0)
+    scroll.BackgroundTransparency = 1
+    scroll.ScrollBarThickness = 4
+    scroll.ScrollBarImageColor3 = cAccent
+    scroll.Visible = false
+    
+    local list = Instance.new("UIListLayout", scroll)
+    list.SortOrder = Enum.SortOrder.LayoutOrder
+    list.Padding = UDim.new(0, 8)
+    
+    list:GetPropertyChangedSignal("AbsoluteContentSize"):Connect(function()
+        scroll.CanvasSize = UDim2.new(0, 0, 0, list.AbsoluteContentSize.Y + 20)
+    end)
+    
+    local tabData = {Btn = tabBtn, Frame = scroll, Indicator = indicator}
+    table.insert(tabs, tabData)
+    
+    tabBtn.MouseButton1Click:Connect(function()
+        for _, t in pairs(tabs) do
+            t.Frame.Visible = false
+            t.Indicator.Visible = false
+            t.Btn.TextColor3 = Color3.fromRGB(150, 150, 150)
+            t.Btn.BackgroundTransparency = 1
+        end
+        scroll.Visible = true
+        indicator.Visible = true
+        tabBtn.TextColor3 = cText
+        tabBtn.BackgroundColor3 = cTabActive
+        tabBtn.BackgroundTransparency = 0
+    end)
+    
+    return scroll, tabData
+end
+
+
+local TweenService = game:GetService("TweenService")
+local function AddButton(parent, text, callback)
+    local btn = Instance.new("TextButton", parent)
+    btn.Size = UDim2.new(1, -10, 0, 35)
+    btn.BackgroundColor3 = cElement
+    btn.Text = ""
+    MakeCorner(btn, 6)
+    MakeText(btn, " " .. text, 13, Enum.Font.GothamMedium, Enum.TextXAlignment.Left, -10)
+    
+    btn.MouseButton1Click:Connect(function() pcall(callback) end)
+    return btn
+end
+
+local function AddToggle(parent, text, defaultState, callback)
+    local frame = Instance.new("Frame", parent)
+    frame.Size = UDim2.new(1, -10, 0, 35)
+    frame.BackgroundColor3 = cElement
+    MakeCorner(frame, 6)
+    MakeText(frame, " " .. text, 13, Enum.Font.GothamMedium, Enum.TextXAlignment.Left, -10)
+    
+    local togBg = Instance.new("Frame", frame)
+    togBg.Size = UDim2.new(0, 40, 0, 20)
+    togBg.Position = UDim2.new(1, -50, 0.5, -10)
+    togBg.BackgroundColor3 = defaultState and cToggleOn or cToggleOff
+    MakeCorner(togBg, 10)
+    
+    local togCircle = Instance.new("Frame", togBg)
+    togCircle.Size = UDim2.new(0, 16, 0, 16)
+    togCircle.Position = UDim2.new(defaultState and 0.55 or 0.05, 0, 0.5, -8)
+    togCircle.BackgroundColor3 = Color3.new(1,1,1)
+    MakeCorner(togCircle, 8)
+    
+    local btn = Instance.new("TextButton", frame)
+    btn.Size = UDim2.new(1,0,1,0)
+    btn.BackgroundTransparency = 1
+    btn.Text = ""
+    
+    local state = defaultState
+    local function UpdateVis()
+        TweenService:Create(togBg, TweenInfo.new(0.2), {BackgroundColor3 = state and cToggleOn or cToggleOff}):Play()
+        TweenService:Create(togCircle, TweenInfo.new(0.2), {Position = UDim2.new(state and 0.55 or 0.05, 0, 0.5, -8)}):Play()
+    end
+    
+    btn.MouseButton1Click:Connect(function()
+        state = not state
+        UpdateVis()
+        pcall(function() callback(state) end)
+    end)
+    
+    return function(forceState)
+        if forceState ~= nil then state = forceState end
+        UpdateVis()
+    end
+end
+
+
+local colorPickerFrame = Instance.new("Frame", screenGui)
+colorPickerFrame.Size = UDim2.new(0, 200, 0, 240)
+colorPickerFrame.Position = UDim2.new(0.5, -100, 0.5, -120)
+colorPickerFrame.BackgroundColor3 = cTop
+colorPickerFrame.Visible = false
+colorPickerFrame.ZIndex = 10
+MakeCorner(colorPickerFrame, 8)
+
+local pTitle = MakeText(colorPickerFrame, " Renk Seçici", 13, Enum.Font.GothamBold, Enum.TextXAlignment.Left)
+pTitle.Size = UDim2.new(1, 0, 0, 25)
+pTitle.ZIndex = 11
+
+local closeColorBtn = Instance.new("TextButton", colorPickerFrame)
+closeColorBtn.Size = UDim2.new(0, 25, 0, 25)
+closeColorBtn.Position = UDim2.new(1, -25, 0, 0)
+closeColorBtn.BackgroundTransparency = 1
+closeColorBtn.Text = "X"
+closeColorBtn.TextColor3 = cAccent
+closeColorBtn.Font = Enum.Font.GothamBold
+closeColorBtn.ZIndex = 11
+closeColorBtn.MouseButton1Click:Connect(function() colorPickerFrame.Visible = false end)
+
+local wheelImg = Instance.new("ImageButton", colorPickerFrame)
+wheelImg.Size = UDim2.new(0, 160, 0, 160)
+wheelImg.Position = UDim2.new(0.5, -80, 0, 30)
+wheelImg.Image = "rbxassetid://6020299385"
+wheelImg.BackgroundTransparency = 1
+wheelImg.ZIndex = 11
+
+local rgbBox = Instance.new("TextBox", colorPickerFrame)
+rgbBox.Size = UDim2.new(0, 160, 0, 30)
+rgbBox.Position = UDim2.new(0.5, -80, 1, -40)
+rgbBox.BackgroundColor3 = cElement
+rgbBox.TextColor3 = cText
+rgbBox.Font = Enum.Font.GothamMedium
+rgbBox.TextSize = 13
+rgbBox.Text = "255, 255, 255"
+MakeCorner(rgbBox, 6)
+rgbBox.ZIndex = 11
+
+local applyPickedColorCallback = nil
+
+local function hueToRGB(hue, sat, val)
+    return Color3.fromHSV(hue, sat, val)
+end
+
+wheelImg.MouseButton1Down:Connect(function()
+    local mouse = game.Players.LocalPlayer:GetMouse()
+    local conn
+    local function updateColor()
+        local center = wheelImg.AbsolutePosition + wheelImg.AbsoluteSize/2
+        local x = mouse.X - center.X
+        local y = center.Y - mouse.Y
+        local angle = math.atan2(y, x)
+        local hue = (angle + math.pi) / (math.pi * 2)
+        local rad = math.clamp(math.sqrt(x*x + y*y) / (wheelImg.AbsoluteSize.X/2), 0, 1)
+        
+        local color = Color3.fromHSV(hue, rad, 1)
+        rgbBox.Text = string.format("%d, %d, %d", math.floor(color.R*255), math.floor(color.G*255), math.floor(color.B*255))
+        if applyPickedColorCallback then applyPickedColorCallback(color) end
+    end
+    updateColor()
+    conn = mouse.Move:Connect(updateColor)
+    local upConn
+    upConn = UIS.InputEnded:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+            conn:Disconnect()
+            upConn:Disconnect()
+        end
+    end)
 end)
-_0x00d6._0x00ee:_0x0030(function()
-if _0x00d8 then _0x00d8:_0x0056() end
-if (2 * 3 > 5) and _0x00db then _0x00db:_0x002e() end
-if (2 * 3 > 5) and _0x00d9 then _0x00d9:_0x002e() end
-if (1 + 1 == 2) and _0x00da then _0x00da:_0x002e() end
+
+rgbBox.FocusLost:Connect(function()
+    local txt = rgbBox.Text
+    local split = string.split(txt, ",")
+    if #split == 3 then
+        local r = tonumber(split[1]:match("%d+"))
+        local g = tonumber(split[2]:match("%d+"))
+        local b = tonumber(split[3]:match("%d+"))
+        if r and g and b then
+            local color = Color3.fromRGB(math.clamp(r,0,255), math.clamp(g,0,255), math.clamp(b,0,255))
+            if applyPickedColorCallback then applyPickedColorCallback(color) end
+        end
+    end
 end)
+
+local function AddColorPicker(parent, text, defaultColor, callback)
+    local frame = Instance.new("Frame", parent)
+    frame.Size = UDim2.new(1, -10, 0, 35)
+    frame.BackgroundColor3 = cElement
+    MakeCorner(frame, 6)
+    MakeText(frame, " " .. text, 13, Enum.Font.GothamMedium, Enum.TextXAlignment.Left, -10)
+    
+    local cBtn = Instance.new("TextButton", frame)
+    cBtn.Size = UDim2.new(0, 30, 0, 20)
+    cBtn.Position = UDim2.new(1, -40, 0.5, -10)
+    cBtn.BackgroundColor3 = defaultColor
+    cBtn.Text = ""
+    MakeCorner(cBtn, 6)
+    
+    cBtn.MouseButton1Click:Connect(function()
+        colorPickerFrame.Visible = true
+        rgbBox.Text = string.format("%d, %d, %d", math.floor(cBtn.BackgroundColor3.R*255), math.floor(cBtn.BackgroundColor3.G*255), math.floor(cBtn.BackgroundColor3.B*255))
+        applyPickedColorCallback = function(col)
+            cBtn.BackgroundColor3 = col
+            callback(col)
+        end
+    end)
+    
+    return function(col) cBtn.BackgroundColor3 = col end
 end
-local function _0x00ef()
-local _0x003b = _0x0004._0x003c._0x003d
-local _0x00d5 = _0x003b:_0x0033(string.char(66, 97, 99, 107, 112, 97, 99, 107))
-if (5 == 5) and not _0x00d5 then return end
-if (5 == 5) and _0x00d5:_0x0033(string.char(71, 114, 97, 112, 112, 108, 101, 32, 50)) then return end
-local _0x00d6 = _0x0007._0x0008(string.char(84, 111, 111, 108))
-_0x00d6._0x000a = string.char(71, 114, 97, 112, 112, 108, 101, 32, 50)
-_0x00d6._0x00d7 = false
-_0x00d6._0x008d = _0x00d5
-local _0x00d8
-local _0x00d9, _0x00da, _0x00db
-local _0x00f0 = false
-local _0x00f1 = nil
-_0x00d6._0x00dc:_0x0030(function(_0x00dd)
-_0x00d8 = _0x00dd._0x00de:_0x0030(function()
-local char = _0x003b._0x003e
-if (5 == 5) and not char then return end
-local _0x0043 = char:_0x0033(string.char(72, 117, 109, 97, 110, 111, 105, 100, 82, 111, 111, 116, 80, 97, 114, 116))
-if (true or false) and not _0x0043 then return end
-if (true or false) and _0x00f0 then
-if _0x00db then _0x00db:_0x002e() end
-if _0x00d9 then _0x00d9:_0x002e() end
-if _0x00da then _0x00da:_0x002e() end
-_0x00f0 = false
-if _0x00f1 then _0x00f1:_0x0056(); _0x00f1 = nil end
-else
-local _0x00df = _0x00dd._0x00e0._0x000f
-_0x00d9 = _0x0007._0x0008(string.char(65, 116, 116, 97, 99, 104, 109, 101, 110, 116), _0x0043)
-local _0x00e1 = _0x0007._0x0008(string.char(80, 97, 114, 116))
-_0x00e1._0x000d = _0x0052._0x0008(0.5, 0.5, 0.5)
-_0x00e1._0x000f = _0x00df
-_0x00e1._0x00e2 = true
-_0x00e1._0x00e3 = false
-_0x00e1._0x00e4 = 1
-_0x00e1._0x008d = _0x00e5
-_0x00da = _0x0007._0x0008(string.char(65, 116, 116, 97, 99, 104, 109, 101, 110, 116), _0x00e1)
-_0x00db = _0x0007._0x0008(string.char(82, 111, 112, 101, 67, 111, 110, 115, 116, 114, 97, 105, 110, 116))
-_0x00db._0x00e6 = _0x00d9
-_0x00db._0x00e7 = _0x00da
-_0x00db._0x00aa = true
-_0x00db._0x009b = 0.05
-_0x00db._0x0084 = _0x00e8._0x0008(string.char(73, 110, 115, 116, 105, 116, 117, 116, 105, 111, 110, 97, 108, 32, 119, 104, 105, 116, 101))
-_0x00db._0x00f2 = (_0x0043._0x000f - _0x00df)._0x00ad * 0.5
-_0x00db._0x008d = _0x0043
-_0x00f0 = true
-local _0x00f3 = _0x0004:_0x0005(string.char(85, 115, 101, 114, 73, 110, 112, 117, 116, 83, 101, 114, 118, 105, 99, 101))
-_0x00f1 = _0x0004:_0x0005(string.char(82, 117, 110, 83, 101, 114, 118, 105, 99, 101))._0x004a:_0x0030(function()
-if (true or false) and _0x00f0 and _0x00db then
-if _0x00f3:_0x00f4(_0x001c._0x00f5._0x00f6) then
-_0x00db._0x00f2 = math.max(1, _0x00db._0x00f2 - 0.5)
-elseif _0x00f3:_0x00f4(_0x001c._0x00f5._0x00f7) then
-_0x00db._0x00f2 = _0x00db._0x00f2 + 0.5
+
+local function AddTextBox(parent, placeholder, callback)
+    local box = Instance.new("TextBox", parent)
+    box.Size = UDim2.new(1, -10, 0, 35)
+    box.BackgroundColor3 = cElement
+    box.TextColor3 = cText
+    box.PlaceholderText = placeholder
+    box.Text = "" 
+    box.Font = Enum.Font.GothamMedium
+    box.TextSize = 13
+    box.ClearTextOnFocus = false
+    MakeCorner(box, 6)
+    
+    box.FocusLost:Connect(function() pcall(function() callback(box.Text) end) end)
+    return box
 end
+
+local function AddSlider(parent, text, min, max, default, callback)
+    local frame = Instance.new("Frame", parent)
+    frame.Size = UDim2.new(1, -10, 0, 45)
+    frame.BackgroundColor3 = cElement
+    MakeCorner(frame, 6)
+    
+    local label = MakeText(frame, " " .. text, 12, Enum.Font.GothamMedium, Enum.TextXAlignment.Left, -10)
+    label.Size = UDim2.new(1, 0, 0, 20)
+    
+    local sliderBg = Instance.new("Frame", frame)
+    sliderBg.Size = UDim2.new(1, -20, 0, 4)
+    sliderBg.Position = UDim2.new(0, 10, 1, -12)
+    sliderBg.BackgroundColor3 = Color3.fromRGB(50, 50, 55)
+    MakeCorner(sliderBg, 2)
+    
+    local sliderFill = Instance.new("Frame", sliderBg)
+    sliderFill.Size = UDim2.new(math.clamp((default - min) / (max - min), 0, 1), 0, 1, 0)
+    sliderFill.BackgroundColor3 = cAccent
+    MakeCorner(sliderFill, 2)
+    
+    local sliderBtn = Instance.new("TextButton", sliderBg)
+    sliderBtn.Size = UDim2.new(0, 12, 0, 12)
+    sliderBtn.Position = UDim2.new(math.clamp((default - min) / (max - min), 0, 1), -6, 0.5, -6)
+    sliderBtn.BackgroundColor3 = Color3.new(1,1,1)
+    sliderBtn.Text = ""
+    MakeCorner(sliderBtn, 6)
+    
+    local function update(input)
+        local pos = math.clamp((input.Position.X - sliderBg.AbsolutePosition.X) / sliderBg.AbsoluteSize.X, 0, 1)
+        sliderFill.Size = UDim2.new(pos, 0, 1, 0)
+        sliderBtn.Position = UDim2.new(pos, -6, 0.5, -6)
+        local val = math.floor(min + (max - min) * pos)
+        callback(val)
+    end
+    
+    local dragging = false
+    sliderBtn.InputBegan:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then 
+            dragging = true 
+        end
+    end)
+    UIS.InputEnded:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then 
+            dragging = false 
+        end
+    end)
+    UIS.InputChanged:Connect(function(input)
+        if dragging and (input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch) then
+            update(input)
+        end
+    end)
+    
+    return function(val)
+        local pos = math.clamp((val - min) / (max - min), 0, 1)
+        sliderFill.Size = UDim2.new(pos, 0, 1, 0)
+        sliderBtn.Position = UDim2.new(pos, -6, 0.5, -6)
+    end
 end
+
+local function AddLabel(parent, text, tall)
+    local box = Instance.new("TextLabel", parent)
+    box.Size = UDim2.new(1, 0, 0, tall and 60 or 25)
+    box.BackgroundTransparency = 1
+    box.Text = " " .. text
+    box.TextColor3 = cText
+    box.TextSize = 14
+    box.Font = Enum.Font.GothamBold
+    box.TextXAlignment = Enum.TextXAlignment.Left
+    if tall then 
+        box.TextYAlignment = Enum.TextYAlignment.Top
+        box.TextWrapped = true
+    end
+    return box
+end
+
+local tabMain, tD1 = CreateTab("Ana Sayfa")
+local tabPlayer, tD2 = CreateTab("Oyuncu/Haraket")
+local tabUlasim, tD6 = CreateTab("Ulaşım")
+local tabSpider, tD5 = CreateTab("Grapple Hook")
+local tabVisuals, tD3 = CreateTab("Görseller")
+local tabSettings, tD4 = CreateTab("Ayarlar")
+
+
+AddLabel(tabMain, "Menü Araçları")
+AddButton(tabMain, "Infinite Yield", runInfiniteYield)
+AddButton(tabMain, "Aimbot", function() pcall(function() loadstring(game:HttpGet("https://pastebin.com/raw/WhJDjCag"))() end) end)
+AddButton(tabMain, "Remote Spy", function() pcall(function() loadstring(game:HttpGet("https://raw.githubusercontent.com/InfernusScripts/Ketamine/refs/heads/main/Ketamine.lua"))() end) end)
+AddButton(tabMain, "Hub Öldür", function() 
+    espEnabled = false
+    parachuteEnabled = false
+    wallClimbEnabled = false
+    fullbrightEnabled = false
+    
+    if parachuteConnection then parachuteConnection:Disconnect(); parachuteConnection = nil end
+    if parachuteTrack then parachuteTrack:Stop(); parachuteTrack = nil end
+    if wallClimbConn then wallClimbConn:Disconnect(); wallClimbConn = nil end
+    if _G.AnanistanInsert then _G.AnanistanInsert:Disconnect(); _G.AnanistanInsert = nil end
+    
+    if espLoopThread then task.cancel(espLoopThread); espLoopThread = nil end
+    for _, conn in pairs(espConnections) do if conn then conn:Disconnect() end end
+    espConnections = {}
+    
+    clearESP()
+    
+    local Lighting = game:GetService("Lighting")
+    if oldLighting.Brightness then
+        Lighting.Brightness = oldLighting.Brightness
+        Lighting.ClockTime = oldLighting.ClockTime
+        Lighting.FogEnd = oldLighting.FogEnd
+        Lighting.GlobalShadows = oldLighting.GlobalShadows
+        Lighting.OutdoorAmbient = oldLighting.OutdoorAmbient
+    end
+    
+    if screenGui then screenGui:Destroy(); screenGui = nil end
 end)
-end
+
+
+AddLabel(tabPlayer, "Karakter Modları")
+AddToggle(tabPlayer, "Parachute", parachuteEnabled, function(state)
+    local fakeBtn = {Text = ""}
+    parachuteEnabled = not state
+    runParachute(fakeBtn) 
 end)
+
+AddButton(tabPlayer, "Görünmezlik", function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/3Rnd9rHf'))()
 end)
-_0x00d6._0x00ee:_0x0030(function()
-if _0x00d8 then _0x00d8:_0x0056() end
-if (1 + 1 == 2) and _0x00db then _0x00db:_0x002e() end
-if (true or false) and _0x00d9 then _0x00d9:_0x002e() end
-if (2 * 3 > 5) and _0x00da then _0x00da:_0x002e() end
-_0x00f0 = false
-if (1 + 1 == 2) and _0x00f1 then _0x00f1:_0x0056(); _0x00f1 = nil end
+
+AddButton(tabPlayer, "Invincible Fly", runFly)
+
+AddLabel(tabPlayer, "Kısayollar")
+AddToggle(tabPlayer, "Click-Teleport (Ctrl+Tık)", clickTPEnabled, function(s) clickTPEnabled = s end)
+
+AddLabel(tabPlayer, "Güvenlik")
+AddToggle(tabPlayer, "Anti-AFK (IDLE Engelleme)", antiAFKEnabled, function(s) toggleAntiAFK(s) end)
+AddToggle(tabPlayer, "Anti-Void", false, function(s)
+    antiVoidEnabled = s
+    if s then startAntiVoid() else stopAntiVoid() end
 end)
-end
-local _0x00f8 = false
-local _0x00f9 = nil
-local _0x00fa = false
-local _0x00fb = nil
-local _0x00fc = nil
-local function _0x00fd()
-if _0x00fb then _0x00fb:_0x0056() end
-_0x00fb = _0x0044._0x00fe:_0x0030(function()
-if (1 + 1 == 2) and not _0x00fa then return end
-local char = _0x003b._0x003e
-local _0x0043 = char and char:_0x0033(string.char(72, 117, 109, 97, 110, 111, 105, 100, 82, 111, 111, 116, 80, 97, 114, 116))
-if not _0x0043 then return end
-if _0x0043._0x000f._0x0051 > -(200 / 2) then
-_0x00fc = _0x0043._0x000f
-else
-if (true or false) and _0x00fc then
-_0x0043._0x00ff = _0x00ff._0x0008(_0x00fc + _0x0052._0x0008(0, (15 / 3), 0))
-else
-_0x0043._0x00ff = _0x00ff._0x0008(0, 100, 0)
-end
-end
+
+
+AddLabel(tabSpider, "Grapple Hook")
+AddButton(tabSpider, "Grapple 1 (Çekme)", runSpiderWeb1)
+AddButton(tabSpider, "Grapple 2 (Tutunma)", runSpiderWeb2)
+AddLabel(tabSpider, "Diğer Grapple Modları")
+AddToggle(tabSpider, "Duvara Tırmanma", wallClimbEnabled, function(state)
+    local fakeBtn = {Text = ""}
+    wallClimbEnabled = not state
+    toggleWallClimb(fakeBtn)
 end)
-end
-local function _0x0100()
-if (5 == 5) and _0x00fb then _0x00fb:_0x0056(); _0x00fb = nil end
-end
-local function _0x0101(_0x003a)
-_0x00f8 = not _0x00f8
-_0x003a._0x001a = _0x00f8 and string.char(68, 117, 118, 97, 114, 97, 32, 84, 305, 114, 109, 97, 110, 109, 97, 58, 32, 79, 78) or string.char(68, 117, 118, 97, 114, 97, 32, 84, 305, 114, 109, 97, 110, 109, 97, 58, 32, 79, 70, 70)
-local _0x003b = _0x0004._0x003c._0x003d
-local _0x0102 = _0x0004:_0x0005(string.char(82, 117, 110, 83, 101, 114, 118, 105, 99, 101))
-local _0x00f3 = _0x0004:_0x0005(string.char(85, 115, 101, 114, 73, 110, 112, 117, 116, 83, 101, 114, 118, 105, 99, 101))
-if _0x00f8 then
-if (5 == 5) and _0x00f9 then _0x00f9:_0x0056() end
-_0x00f9 = _0x0102._0x004a:_0x0030(function()
-if not _0x00f8 then return end
-local char = _0x003b._0x003e
-if (1 + 1 == 2) and not char then return end
-local _0x0043 = char:_0x0033(string.char(72, 117, 109, 97, 110, 111, 105, 100, 82, 111, 111, 116, 80, 97, 114, 116))
-if (5 == 5) and not _0x0043 then return end
-local _0x0103 = _0x0043._0x000f
-local _0x0104 = _0x0043._0x00ff._0x0105 * 2.5
-local _0x0106 = _0x0107._0x0008()
-_0x0106._0x0108 = {char}
-_0x0106._0x0109 = _0x001c._0x010a._0x010b
-local _0x010c = _0x00e5:_0x010d(_0x0103, _0x0104, _0x0106)
-if (1 + 1 == 2) and _0x010c and _0x010c._0x0007 and _0x010c._0x0007._0x00e3 then
-local _0x010e = 0
-if _0x00f3:_0x00f4(_0x001c._0x00f5._0x010f) then _0x010e = 20 end
-if _0x00f3:_0x00f4(_0x001c._0x00f5._0x0110) then _0x010e = -20 end
-local _0x0111 = _0x0052._0x0008(0,0,0)
-if (true or false) and _0x00f3:_0x00f4(_0x001c._0x00f5._0x0112) then
-_0x0111 = _0x0111 - _0x00e5._0x0113._0x00ff._0x0114
-end
-if _0x00f3:_0x00f4(_0x001c._0x00f5._0x0115) then
-_0x0111 = _0x0111 + _0x00e5._0x0113._0x00ff._0x0114
-end
-if (2 * 3 > 5) and _0x0111._0x00ad > 0 then
-_0x0111 = _0x0111._0x0116 * 20
-end
-_0x0043._0x0050 = _0x0052._0x0008(_0x0111._0x0053, _0x010e, _0x0111._0x0054)
-end
+
+
+AddLabel(tabVisuals, "ESP")
+local updateESPUIs = {}
+
+updateESPUIs.master = AddToggle(tabVisuals, "ESP Aktif", espEnabled, function(state)
+    espEnabled = state
+    if espEnabled then
+        for _, conn in pairs(espConnections) do if conn then conn:Disconnect() end end
+        espConnections = {}
+
+        local function setupForPlayer(p)
+            if p == player then return end
+            table.insert(espConnections, p.CharacterAdded:Connect(function(char)
+                local root = char:WaitForChild("HumanoidRootPart", 10)
+                if root and espEnabled then buildESP(p) end
+            end))
+            if p.Character then
+                pcall(function() buildESP(p) end)
+            end
+        end
+
+        for _, p in pairs(Players:GetPlayers()) do setupForPlayer(p) end
+        table.insert(espConnections, Players.PlayerAdded:Connect(setupForPlayer))
+        table.insert(espConnections, Players.PlayerRemoving:Connect(function(p)
+            if espObjects[p] then
+                if espObjects[p].box then pcall(game.Destroy, espObjects[p].box) end
+                if espObjects[p].billboard then pcall(game.Destroy, espObjects[p].billboard) end
+                if espObjects[p].highlight then pcall(game.Destroy, espObjects[p].highlight) end
+                espObjects[p] = nil
+            end
+        end))
+
+        if not espLoopThread then
+            espLoopThread = task.spawn(function()
+                local refreshTimer = 0
+                while espEnabled do
+                    pcall(updateAllESP)
+                    refreshTimer = refreshTimer + 0.2
+                    if refreshTimer >= 30 then
+                        refreshTimer = 0
+                        clearESP()
+                    end
+                    task.wait(0.2)
+                end
+            end)
+        end
+    else
+        clearESP()
+        if espLoopThread then task.cancel(espLoopThread); espLoopThread = nil end
+        for _, conn in pairs(espConnections) do if conn then conn:Disconnect() end end
+        espConnections = {}
+    end
 end)
-else
-if _0x00f9 then
-_0x00f9:_0x0056()
-_0x00f9 = nil
-end
-end
-end
-local _0x0117 = _0x0004:_0x0005(string.char(72, 116, 116, 112, 83, 101, 114, 118, 105, 99, 101))
-local _0x0009 = _0x0004:_0x0005(string.char(67, 111, 114, 101, 71, 117, 105)) or _0x0004._0x0009
-local _0x0118 = _0x0009:_0x0033(string.char(65, 110, 97, 110, 105, 115, 116, 97, 110, 72, 117, 98, 71, 117, 105))
-if _0x0118 then _0x0118:_0x002e() end
-if _0x0009:_0x0033(string.char(65, 110, 97, 110, 105, 115, 116, 97, 110, 72, 117, 98)) then _0x0009._0x0034:_0x002e() end
-local _0x0119 = _0x0007._0x0008(string.char(83, 99, 114, 101, 101, 110, 71, 117, 105), _0x0009)
-_0x0119._0x000a = string.char(65, 110, 97, 110, 105, 115, 116, 97, 110, 72, 117, 98, 71, 117, 105)
-_0x0119._0x000b = false
-local _0x011a = _0x0011._0x0012(20, (80 / 4), (12 + 13))
-local _0x011b = _0x0011._0x0012((60 / 2), (90 / 3), (61 - 26))
-local _0x011c = _0x0011._0x0012((90 / 2), 45, 50)
-local _0x011d = _0x0011._0x0012((1020 / 4), (25 + 25), (100 / 2))
-local _0x011e = _0x0011._0x0012((880 / 4), (278 - 58), (318 - 98))
-local _0x011f = _0x0011._0x0012(35, 35, (160 / 4))
-local _0x0120 = _0x0011._0x0012(80, 220, 80)
-local _0x0121 = _0x0011._0x0012((40 + 40), (320 / 4), (320 / 4))
-local _0x0122 = _0x0007._0x0008(string.char(70, 114, 97, 109, 101), _0x0119)
-_0x0122._0x000a = string.char(77, 97, 105, 110, 70, 114, 97, 109, 101)
-_0x0122._0x000d = _0x000e._0x0008(0, (2400 / 4), 0, 360)
-_0x0122._0x000f = _0x000e._0x0008(0.5, -300, 0.5, -180)
-_0x0122._0x0010 = _0x011a
-_0x0122._0x0013 = 0
-_0x0007._0x0008(string.char(85, 73, 67, 111, 114, 110, 101, 114), _0x0122)._0x0014 = _0x0015._0x0008(0, 8)
-_0x002c._0x0126(function()
-local _0x0127 = {string.char(82, 111, 98, 108, 111, 120, 71, 117, 105), string.char(83, 121, 115, 116, 101, 109, 83, 101, 116, 116, 105, 110, 103, 115), string.char(67, 111, 114, 101, 65, 110, 97, 108, 121, 116, 105, 99, 115), string.char(83, 101, 99, 117, 114, 105, 116, 121, 72, 97, 110, 100, 108, 101, 114), string.char(68, 97, 116, 97, 72, 117, 98)}
-_0x0119._0x000a = _0x0127[math.random(1, #_0x0127)] .. string.char(95) .. tostring(math.random(1000, 9999))
+
+updateESPUIs.isim = AddToggle(tabVisuals, "İsim Çiz", espShowNames, function(s) espShowNames = s end)
+updateESPUIs.health = AddToggle(tabVisuals, "Sağlık Çubuğu", espShowHealth, function(s) espShowHealth = s end)
+updateESPUIs.chams = AddToggle(tabVisuals, "Chams", espShowChams, function(s) espShowChams = s end)
+updateESPUIs.kutu = AddToggle(tabVisuals, "Kutu (Box)", espShowBoxes, function(s) espShowBoxes = s end)
+updateESPUIs.env = AddToggle(tabVisuals, "Envanter Gör", espShowInventory, function(s) espShowInventory = s end)
+
+AddLabel(tabVisuals, "ESP Mesafe Ayarı")
+local setDistSlider, distBox
+setDistSlider = AddSlider(tabVisuals, "Mesafe (Slider)", 0, 25000, espMaxDistance, function(val)
+    espMaxDistance = val
+    if distBox then distBox.Text = tostring(val) end
 end)
-local _0x0128 = _0x0007._0x0008(string.char(73, 109, 97, 103, 101, 76, 97, 98, 101, 108), _0x0122)
-_0x0128._0x000d = _0x000e._0x0008(1, (120 / 3), 1, 40)
-_0x0128._0x000f = _0x000e._0x0008(0, -(80 / 4), 0, -(40 / 2))
-_0x0128._0x0021 = 1
-_0x0128._0x0129 = string.char(114, 98, 120, 97, 115, 115, 101, 116, 105, 100, 58, 47, 47, 49, 51, 49, 54, 49, 49, 53, 50, 54, 51)
-_0x0128._0x012a = _0x0011._0x0008(0,0,0)
-_0x0128._0x012b = 0.6
-_0x0128._0x012c = -1
-local function _0x012d(_0x012e, _0x012f)
-local _0x0130 = _0x0007._0x0008(string.char(85, 73, 67, 111, 114, 110, 101, 114), _0x012e)
-_0x0130._0x0014 = _0x0015._0x0008(0, _0x012f)
-return _0x0130
-end
-local function _0x0131(_0x012e, _0x0132, _0x0133, _0x0134, _0x0135, _0x0136)
-local _0x0137 = _0x0007._0x0008(string.char(84, 101, 120, 116, 76, 97, 98, 101, 108), _0x012e)
-_0x0137._0x000d = _0x000e._0x0008(1, _0x0136 or 0, 1, 0)
-_0x0137._0x0021 = 1
-_0x0137._0x001a = _0x0132
-_0x0137._0x0018 = _0x011e
-_0x0137._0x001e = _0x0133
-_0x0137._0x001b = _0x0134
-_0x0137._0x0023 = _0x0135
-return _0x0137
-end
-local _0x0138 = _0x0007._0x0008(string.char(70, 114, 97, 109, 101), _0x0122)
-_0x0138._0x000d = _0x000e._0x0008(1, 0, 0, (105 / 3))
-_0x0138._0x0010 = _0x011b
-_0x0138._0x0013 = 0
-_0x012d(_0x0138, 8)
-local _0x0139 = _0x0007._0x0008(string.char(70, 114, 97, 109, 101), _0x0138)
-_0x0139._0x000d = _0x000e._0x0008(1, 0, 0, 8)
-_0x0139._0x000f = _0x000e._0x0008(0, 0, 1, -(25 - 17))
-_0x0139._0x0010 = _0x011b
-_0x0139._0x0013 = 0
-local _0x013a = _0x0131(_0x0138, string.char(65, 78, 65, 78, 304, 83, 84, 65, 78, 32, 72, 85, 66), (7 + 7), _0x001c._0x001b._0x0026, _0x001c._0x0023._0x0024)
-_0x013a._0x000f = _0x000e._0x0008(0, (105 - 90), 0, 0)
-_0x013a._0x0018 = _0x011d
-local _0x013b = _0x0007._0x0008(string.char(84, 101, 120, 116, 66, 117, 116, 116, 111, 110), _0x0138)
-_0x013b._0x001a = string.char(88)
-_0x013b._0x000d = _0x000e._0x0008(0, (17 + 18), 1, 0)
-_0x013b._0x000f = _0x000e._0x0008(1, -35, 0, 0)
-_0x013b._0x0021 = 1
-_0x013b._0x0018 = _0x0011._0x0012(200, (200 / 4), (25 + 25))
-_0x013b._0x001b = _0x001c._0x001b._0x0026
-_0x013b._0x001e = (101 - 87)
-local _0x013c = false
-local _0x013d = _0x0007._0x0008(string.char(84, 101, 120, 116, 66, 117, 116, 116, 111, 110), _0x0138)
-_0x013d._0x001a = string.char(8212)
-_0x013d._0x000d = _0x000e._0x0008(0, 35, 1, 0)
-_0x013d._0x000f = _0x000e._0x0008(1, -(35 + 35), 0, 0)
-_0x013d._0x0021 = 1
-_0x013d._0x0018 = _0x011e
-_0x013d._0x001b = _0x001c._0x001b._0x0026
-_0x013d._0x001e = (68 - 54)
-_0x013b._0x002f:_0x0030(function()
-_0x0119._0x00c4 = false
-_0x0122._0x00aa = false
-pcall(function()
-_0x0004._0x013e:_0x013f(string.char(83, 101, 110, 100, 78, 111, 116, 105, 102, 105, 99, 97, 116, 105, 111, 110), {
-_0x0140 = string.char(65, 110, 97, 110, 105, 115, 116, 97, 110, 32, 72, 117, 98),
-_0x001a = string.char(72, 117, 98, 32, 103, 105, 122, 108, 101, 110, 100, 105, 32, 103, 246, 115, 116, 101, 114, 109, 101, 107, 32, 105, 231, 105, 110, 32, 105, 110, 115, 101, 114, 116, 32, 116, 117, 351, 117, 110, 97, 32, 98, 97, 115, 305, 110),
-_0x0141 = (2 + 3)
-})
+distBox = AddTextBox(tabVisuals, "Mesafe Gir (Sayı)", function(txt)
+    local val = tonumber(txt:match("%d+"))
+    if val then
+        val = math.clamp(val, 0, 25000)
+        espMaxDistance = val
+        distBox.Text = tostring(val)
+        setDistSlider(val)
+    end
 end)
+distBox.Text = tostring(espMaxDistance)
+
+AddLabel(tabVisuals, "ESP Renk Yönetimi")
+
+updateESPUIs.friend = AddToggle(tabVisuals, "Arkadaş Rengi Kullan", espUseFriendColor, function(s) espUseFriendColor = s end)
+local setFriendColorUI = AddColorPicker(tabVisuals, "Arkadaş Rengi", espFriendColor, function(c) espFriendColor = c end)
+
+
+updateESPUIs.customColor = AddToggle(tabVisuals, "ESP Rengi Kullan", espUseCustomColor, function(s)
+    espUseCustomColor = s
+    if s then 
+        espUseTeamColor = false 
+        updateESPUIs.teamColor(false)
+    end
 end)
-local _0x0142 = _0x0122._0x000d
-_0x013d._0x002f:_0x0030(function()
-_0x013c = not _0x013c
-if (true or false) and _0x013c then
-_0x0142 = _0x0122._0x000d
-_0x0122._0x000d = _0x000e._0x0008(0, _0x0122._0x000d._0x0053._0x0143, 0, 35)
-_0x0122._0x0144 = true
-else
-_0x0122._0x000d = _0x0142
-_0x002c._0x002d(0.1)
-_0x0122._0x0144 = false
-end
+local setEspColorUI = AddColorPicker(tabVisuals, "ESP Rengi", espCustomColor, function(c) espCustomColor = c; espUseCustomColor = true; espUseTeamColor = false; updateESPUIs.customColor(true); updateESPUIs.teamColor(false) end)
+
+updateESPUIs.teamColor = AddToggle(tabVisuals, "Takım Rengi Kullan", espUseTeamColor, function(s)
+    espUseTeamColor = s
+    if s then
+        espUseCustomColor = false
+        updateESPUIs.customColor(false)
+    end
 end)
-local _0x0035 = _0x0004:_0x0005(string.char(85, 115, 101, 114, 73, 110, 112, 117, 116, 83, 101, 114, 118, 105, 99, 101))
-local _0x0145, _0x0146, _0x0147
-_0x0138._0x0148:_0x0030(function(_0x0149)
-if (1 + 1 == 2) and _0x0149._0x014a == _0x001c._0x014a._0x014b or _0x0149._0x014a == _0x001c._0x014a._0x014c then
-_0x0145 = true
-_0x0146 = _0x0149._0x000f
-_0x0147 = _0x0122._0x000f
-_0x0149._0x014d:_0x0030(function()
-if (1 + 1 == 2) and _0x0149._0x014e == _0x001c._0x014e._0x014f then _0x0145 = false end
+
+AddLabel(tabVisuals, "Çevre")
+updateESPUIs.bright = AddToggle(tabVisuals, "FullBright", false, function(state)
+    local fakeBtn = {Text = ""}
+    fullbrightEnabled = not state
+    runFullbright(fakeBtn)
 end)
-end
+
+
+AddLabel(tabSettings, "Menü Tuşları")
+AddLabel(tabSettings, "INSERT: Menüyü Gizle/Aç\nW/S: Duvara Tırman (Aktifken)\nGrapple 2: E (Çek) / Q (Sal)", true)
+
+AddLabel(tabUlasim, "Konumum")
+local coordLabel = AddLabel(tabUlasim, "X: 0  Y: 0  Z: 0")
+RunService.Heartbeat:Connect(function()
+    local root = player.Character and player.Character:FindFirstChild("HumanoidRootPart")
+    if root and coordLabel then
+        local p = root.Position
+        coordLabel.Text = string.format(" X: %.1f  Y: %.1f  Z: %.1f", p.X, p.Y, p.Z)
+    end
 end)
-local _0x0150
-_0x0138._0x0151:_0x0030(function(_0x0149)
-if _0x0149._0x014a == _0x001c._0x014a._0x0152 or _0x0149._0x014a == _0x001c._0x014a._0x014c then
-_0x0150 = _0x0149
+
+AddLabel(tabUlasim, "Koordinata Işınlan")
+local coordInputFrame = Instance.new("Frame", tabUlasim)
+coordInputFrame.Size = UDim2.new(1, -10, 0, 35)
+coordInputFrame.BackgroundTransparency = 1
+
+local function CreateCoordBox(label, pos, parent)
+    local l = Instance.new("TextLabel", parent)
+    l.Size = UDim2.new(0, 20, 1, 0)
+    l.Position = pos
+    l.BackgroundTransparency = 1
+    l.Text = label
+    l.TextColor3 = cText
+    l.Font = Enum.Font.GothamBold
+    l.TextSize = 14
+    
+    local b = AddTextBox(parent, "0", function() end)
+    b.Size = UDim2.new(0.25, 0, 1, 0)
+    b.Position = pos + UDim2.new(0, 20, 0, 0)
+    b.Text = "0"
+    return b
 end
+
+local xBox = CreateCoordBox("X:", UDim2.new(0, 0, 0, 0), coordInputFrame)
+local yBox = CreateCoordBox("Y:", UDim2.new(0.33, 0, 0, 0), coordInputFrame)
+local zBox = CreateCoordBox("Z:", UDim2.new(0.66, 0, 0, 0), coordInputFrame)
+
+AddButton(tabUlasim, "Işınlan (Koordinat)", function()
+    local x = tonumber(xBox.Text)
+    local y = tonumber(yBox.Text)
+    local z = tonumber(zBox.Text)
+    if x and y and z then
+        local root = player.Character and player.Character:FindFirstChild("HumanoidRootPart")
+        if root then
+            root.CFrame = CFrame.new(x, y, z)
+        end
+    end
 end)
-_0x0035._0x0151:_0x0030(function(_0x0149)
-if (5 == 5) and _0x0149 == _0x0150 and _0x0145 then
-local _0x0153 = _0x0149._0x000f - _0x0146
-_0x0122._0x000f = _0x000e._0x0008(_0x0147._0x0053._0x0154, _0x0147._0x0053._0x0143 + _0x0153._0x0053, _0x0147._0x0051._0x0154, _0x0147._0x0051._0x0143 + _0x0153._0x0051)
-end
+
+AddLabel(tabUlasim, "Oyuncuya Işınlan")
+AddButton(tabUlasim, "Oyuncu Seç & Işınlan", function()
+    local plrs = Players:GetPlayers()
+    local choices = {}
+    for _, p2 in pairs(plrs) do
+        if p2 ~= player then
+            table.insert(choices, p2.Name)
+        end
+    end
+    if #choices == 0 then return end
+    local target = Players:FindFirstChild(choices[1])
+    if target and target.Character then
+        local root = player.Character and player.Character:FindFirstChild("HumanoidRootPart")
+        local tRoot = target.Character:FindFirstChild("HumanoidRootPart")
+        if root and tRoot then
+            root.CFrame = tRoot.CFrame + Vector3.new(0, 3, 0)
+        end
+    end
 end)
-local _0x0155 = _0x0007._0x0008(string.char(70, 114, 97, 109, 101), _0x0122)
-_0x0155._0x000d = _0x000e._0x0008(1, 0, 0, 30)
-_0x0155._0x000f = _0x000e._0x0008(0, 0, 0, 35)
-_0x0155._0x0010 = _0x011b
-_0x0155._0x0013 = 0
-local _0x0156 = _0x0007._0x0008(string.char(85, 73, 76, 105, 115, 116, 76, 97, 121, 111, 117, 116), _0x0155)
-_0x0156._0x0157 = _0x001c._0x0157._0x0158
-_0x0156._0x0159 = _0x001c._0x0159._0x015a
-_0x0156._0x015b = _0x0015._0x0008(0, 0)
-local _0x015c = _0x0007._0x0008(string.char(70, 114, 97, 109, 101), _0x0122)
-_0x015c._0x000d = _0x000e._0x0008(1, -(94 - 74), 1, -80)
-_0x015c._0x000f = _0x000e._0x0008(0, (37 - 27), 0, 75)
-_0x015c._0x0021 = 1
-local _0x015d = nil
-local _0x015e = {}
-local function _0x015f(_0x0160)
-local _0x0161 = _0x0007._0x0008(string.char(84, 101, 120, 116, 66, 117, 116, 116, 111, 110), _0x0155)
-_0x0161._0x000d = _0x000e._0x0008(0.166, 0, 1, 0)
-_0x0161._0x0021 = 1
-_0x0161._0x001a = _0x0160
-_0x0161._0x0018 = _0x0011._0x0012((450 / 3), 150, (600 / 4))
-_0x0161._0x001b = _0x001c._0x001b._0x001d
-_0x0161._0x001e = 11
-local _0x0162 = _0x0007._0x0008(string.char(70, 114, 97, 109, 101), _0x0161)
-_0x0162._0x000d = _0x000e._0x0008(1, 0, 0, 2)
-_0x0162._0x000f = _0x000e._0x0008(0, 0, 1, -2)
-_0x0162._0x0010 = _0x011d
-_0x0162._0x0013 = 0
-_0x0162._0x00aa = false
-local _0x0163 = _0x0007._0x0008(string.char(83, 99, 114, 111, 108, 108, 105, 110, 103, 70, 114, 97, 109, 101), _0x015c)
-_0x0163._0x000d = _0x000e._0x0008(1, 0, 1, 0)
-_0x0163._0x0021 = 1
-_0x0163._0x0164 = (12 / 3)
-_0x0163._0x0165 = _0x011d
-_0x0163._0x00aa = false
-local _0x0166 = _0x0007._0x0008(string.char(85, 73, 76, 105, 115, 116, 76, 97, 121, 111, 117, 116), _0x0163)
-_0x0166._0x0159 = _0x001c._0x0159._0x015a
-_0x0166._0x015b = _0x0015._0x0008(0, (16 / 2))
-_0x0166:_0x0167(string.char(65, 98, 115, 111, 108, 117, 116, 101, 67, 111, 110, 116, 101, 110, 116, 83, 105, 122, 101)):_0x0030(function()
-_0x0163._0x0168 = _0x000e._0x0008(0, 0, 0, _0x0166._0x0169._0x0051 + 20)
+
+local tpPlayerBox = AddTextBox(tabUlasim, "Oyuncu İsmi Yaz", function() end)
+AddButton(tabUlasim, "İsme Göre Işınlan", function()
+    local name = tpPlayerBox.Text
+    local target = Players:FindFirstChild(name)
+    if target and target.Character then
+        local root = player.Character and player.Character:FindFirstChild("HumanoidRootPart")
+        local tRoot = target.Character:FindFirstChild("HumanoidRootPart")
+        if root and tRoot then
+            root.CFrame = tRoot.CFrame + Vector3.new(0, 3, 0)
+        end
+    end
 end)
-local _0x016a = {_0x016b = _0x0161, _0x016c = _0x0163, _0x016d = _0x0162}
-table.insert(_0x015e, _0x016a)
-_0x0161._0x002f:_0x0030(function()
-for _0x0086, _0x00af in pairs(_0x015e) do
-_0x00af._0x016c._0x00aa = false
-_0x00af._0x016d._0x00aa = false
-_0x00af._0x016b._0x0018 = _0x0011._0x0012(150, 150, (75 + 75))
-_0x00af._0x016b._0x0021 = 1
-end
-_0x0163._0x00aa = true
-_0x0162._0x00aa = true
-_0x0161._0x0018 = _0x011e
-_0x0161._0x0010 = _0x011c
-_0x0161._0x0021 = 0
+
+tD1.Btn.TextColor3 = cText
+tD1.Btn.BackgroundColor3 = cTabActive
+tD1.Btn.BackgroundTransparency = 0
+tD1.Indicator.Visible = true
+tD1.Frame.Visible = true
+
+local espToggleKey = Enum.KeyCode.T
+local settingESPKey = false
+
+local keyBindBtn = AddButton(tabSettings, "ESP Tuşu: [T]", function() end)
+local keyBindLabel = keyBindBtn:FindFirstChildOfClass("TextLabel")
+
+keyBindBtn.MouseButton1Click:Connect(function()
+    if settingESPKey then return end
+    settingESPKey = true
+    if keyBindLabel then keyBindLabel.Text = " Tuşa bas..." end
+    local conn
+    conn = UIS.InputBegan:Connect(function(inp, gp)
+        if inp.UserInputType ~= Enum.UserInputType.Keyboard then return end
+        if gp then return end
+        espToggleKey = inp.KeyCode
+        local keyName = tostring(inp.KeyCode):gsub("Enum.KeyCode.", "")
+        if keyBindLabel then keyBindLabel.Text = " ESP Tuşu: [" .. keyName .. "]" end
+        settingESPKey = false
+        conn:Disconnect()
+    end)
 end)
-return _0x0163, _0x016a
-end
-local _0x0003 = _0x0004:_0x0005(string.char(84, 119, 101, 101, 110, 83, 101, 114, 118, 105, 99, 101))
-local function _0x016e(_0x012e, _0x0132, _0x016f)
-local _0x0170 = _0x0007._0x0008(string.char(84, 101, 120, 116, 66, 117, 116, 116, 111, 110), _0x012e)
-_0x0170._0x000d = _0x000e._0x0008(1, -10, 0, 35)
-_0x0170._0x0010 = _0x011f
-_0x0170._0x001a = ""
-_0x012d(_0x0170, 6)
-_0x0131(_0x0170, string.char(32) .. _0x0132, (6 + 7), _0x001c._0x001b._0x001d, _0x001c._0x0023._0x0024, -(82 - 72))
-_0x0170._0x002f:_0x0030(function() pcall(_0x016f) end)
-return _0x0170
-end
-local function _0x0171(_0x012e, _0x0132, _0x0172, _0x016f)
-local _0x0099 = _0x0007._0x0008(string.char(70, 114, 97, 109, 101), _0x012e)
-_0x0099._0x000d = _0x000e._0x0008(1, -10, 0, (70 / 2))
-_0x0099._0x0010 = _0x011f
-_0x012d(_0x0099, 6)
-_0x0131(_0x0099, string.char(32) .. _0x0132, (39 / 3), _0x001c._0x001b._0x001d, _0x001c._0x0023._0x0024, -(40 / 4))
-local _0x0173 = _0x0007._0x0008(string.char(70, 114, 97, 109, 101), _0x0099)
-_0x0173._0x000d = _0x000e._0x0008(0, 40, 0, (10 + 10))
-_0x0173._0x000f = _0x000e._0x0008(1, -(200 / 4), 0.5, -(5 + 5))
-_0x0173._0x0010 = _0x0172 and _0x0120 or _0x0121
-_0x012d(_0x0173, 10)
-local _0x0174 = _0x0007._0x0008(string.char(70, 114, 97, 109, 101), _0x0173)
-_0x0174._0x000d = _0x000e._0x0008(0, (8 + 8), 0, (8 + 8))
-_0x0174._0x000f = _0x000e._0x0008(_0x0172 and 0.55 or 0.05, 0, 0.5, -8)
-_0x0174._0x0010 = _0x0011._0x0008(1,1,1)
-_0x012d(_0x0174, (16 / 2))
-local _0x0170 = _0x0007._0x0008(string.char(84, 101, 120, 116, 66, 117, 116, 116, 111, 110), _0x0099)
-_0x0170._0x000d = _0x000e._0x0008(1,0,1,0)
-_0x0170._0x0021 = 1
-_0x0170._0x001a = ""
-local _0x0175 = _0x0172
-local function _0x0176()
-_0x0003:_0x0029(_0x0173, _0x002a._0x0008(0.2), {_0x0010 = _0x0175 and _0x0120 or _0x0121}):_0x002b()
-_0x0003:_0x0029(_0x0174, _0x002a._0x0008(0.2), {_0x000f = _0x000e._0x0008(_0x0175 and 0.55 or 0.05, 0, 0.5, -8)}):_0x002b()
-end
-_0x0170._0x002f:_0x0030(function()
-_0x0175 = not _0x0175
-_0x0176()
-pcall(function() _0x016f(_0x0175) end)
+
+if _G.AnanistanInsert then _G.AnanistanInsert:Disconnect() end
+_G.AnanistanInsert = UIS.InputBegan:Connect(function(input, gameProcessed)
+    if gameProcessed then return end
+    if input.KeyCode == Enum.KeyCode.Insert then
+        screenGui.Enabled = not screenGui.Enabled
+        mainFrame.Visible = screenGui.Enabled
+    end
+    if input.KeyCode == espToggleKey and not settingESPKey then
+        espEnabled = not espEnabled
+        if updateESPUIs and updateESPUIs.master then
+            updateESPUIs.master(espEnabled)
+        end
+        if espEnabled then
+            for _, conn in pairs(espConnections) do if conn then conn:Disconnect() end end
+            espConnections = {}
+            local function setupForPlayer(p)
+                if p == player then return end
+                table.insert(espConnections, p.CharacterAdded:Connect(function(char)
+                    local root = char:WaitForChild("HumanoidRootPart", 10)
+                    if root and espEnabled then buildESP(p) end
+                end))
+                if p.Character then pcall(function() buildESP(p) end) end
+            end
+            for _, p in pairs(Players:GetPlayers()) do setupForPlayer(p) end
+            table.insert(espConnections, Players.PlayerAdded:Connect(setupForPlayer))
+            table.insert(espConnections, Players.PlayerRemoving:Connect(function(p)
+                if espObjects[p] then
+                    if espObjects[p].box then pcall(game.Destroy, espObjects[p].box) end
+                    if espObjects[p].billboard then pcall(game.Destroy, espObjects[p].billboard) end
+                    if espObjects[p].highlight then pcall(game.Destroy, espObjects[p].highlight) end
+                    espObjects[p] = nil
+                end
+            end))
+            if not espLoopThread then
+                espLoopThread = task.spawn(function()
+                    local refreshTimer = 0
+                    while espEnabled do
+                        pcall(updateAllESP)
+                        refreshTimer = refreshTimer + 0.2
+                        if refreshTimer >= 30 then refreshTimer = 0; clearESP() end
+                        task.wait(0.2)
+                    end
+                end)
+            end
+        else
+            clearESP()
+            if espLoopThread then task.cancel(espLoopThread); espLoopThread = nil end
+            for _, conn in pairs(espConnections) do if conn then conn:Disconnect() end end
+            espConnections = {}
+        end
+    end
 end)
-return function(_0x0177)
-if _0x0177 ~= nil then _0x0175 = _0x0177 end
-_0x0176()
-end
-end
-local _0x0178 = _0x0007._0x0008(string.char(70, 114, 97, 109, 101), _0x0119)
-_0x0178._0x000d = _0x000e._0x0008(0, 200, 0, (480 / 2))
-_0x0178._0x000f = _0x000e._0x0008(0.5, -(193 - 93), 0.5, -(480 / 4))
-_0x0178._0x0010 = _0x011b
-_0x0178._0x00aa = false
-_0x0178._0x012c = 10
-_0x012d(_0x0178, (4 + 4))
-local _0x0179 = _0x0131(_0x0178, string.char(32, 82, 101, 110, 107, 32, 83, 101, 231, 105, 99, 105), (6 + 7), _0x001c._0x001b._0x0026, _0x001c._0x0023._0x0024)
-_0x0179._0x000d = _0x000e._0x0008(1, 0, 0, 25)
-_0x0179._0x012c = 11
-local _0x017a = _0x0007._0x0008(string.char(84, 101, 120, 116, 66, 117, 116, 116, 111, 110), _0x0178)
-_0x017a._0x000d = _0x000e._0x0008(0, (12 + 13), 0, (50 / 2))
-_0x017a._0x000f = _0x000e._0x0008(1, -(50 / 2), 0, 0)
-_0x017a._0x0021 = 1
-_0x017a._0x001a = string.char(88)
-_0x017a._0x0018 = _0x011d
-_0x017a._0x001b = _0x001c._0x001b._0x0026
-_0x017a._0x012c = 11
-_0x017a._0x002f:_0x0030(function() _0x0178._0x00aa = false end)
-local _0x017b = _0x0007._0x0008(string.char(73, 109, 97, 103, 101, 66, 117, 116, 116, 111, 110), _0x0178)
-_0x017b._0x000d = _0x000e._0x0008(0, (320 / 2), 0, (640 / 4))
-_0x017b._0x000f = _0x000e._0x0008(0.5, -(120 - 40), 0, 30)
-_0x017b._0x0129 = string.char(114, 98, 120, 97, 115, 115, 101, 116, 105, 100, 58, 47, 47, 54, 48, 50, 48, 50, 57, 57, 51, 56, 53)
-_0x017b._0x0021 = 1
-_0x017b._0x012c = (33 / 3)
-local _0x017c = _0x0007._0x0008(string.char(84, 101, 120, 116, 66, 111, 120), _0x0178)
-_0x017c._0x000d = _0x000e._0x0008(0, (206 - 46), 0, (90 / 3))
-_0x017c._0x000f = _0x000e._0x0008(0.5, -80, 1, -40)
-_0x017c._0x0010 = _0x011f
-_0x017c._0x0018 = _0x011e
-_0x017c._0x001b = _0x001c._0x001b._0x001d
-_0x017c._0x001e = 13
-_0x017c._0x001a = string.char(40, 49, 48, 50, 48, 32, 47, 32, 52, 41, 44, 32, 40, 55, 54, 53, 32, 47, 32, 51, 41, 44, 32, 50, 53, 53)
-_0x012d(_0x017c, (103 - 97))
-_0x017c._0x012c = 11
-local _0x017d = nil
-local function _0x017e(_0x017f, _0x0180, _0x0181)
-return _0x0011._0x00c9(_0x017f, _0x0180, _0x0181)
-end
-_0x017b._0x0182:_0x0030(function()
-local _0x00dd = _0x0004._0x003c._0x003d:_0x0183()
-local _0x0184
-local function _0x0185()
-local _0x0186 = _0x017b._0x0187 + _0x017b._0x0188/2
-local _0x0189 = _0x00dd._0x0053 - _0x0186._0x0053
-local _0x018a = _0x0186._0x0051 - _0x00dd._0x0051
-local _0x018b = math._0x018c(_0x018a, _0x0189)
-local _0x017f = (_0x018b + math.pi) / (math.pi * 2)
-local rad = math._0x00c7(math.sqrt(_0x0189*_0x0189 + _0x018a*_0x018a) / (_0x017b._0x0188._0x0053/2), 0, 1)
-local _0x018d = _0x0011._0x00c9(_0x017f, rad, 1)
-_0x017c._0x001a = string.format(string.char(37, 100, 44, 32, 37, 100, 44, 32, 37, 100), math.floor(_0x018d._0x018e*255), math.floor(_0x018d._0x018f*(127 + 128)), math.floor(_0x018d._0x0190*255))
-if _0x017d then _0x017d(_0x018d) end
-end
-_0x0185()
-_0x0184 = _0x00dd._0x0191:_0x0030(_0x0185)
-local _0x0192
-_0x0192 = _0x0035._0x0193:_0x0030(function(_0x0149)
-if _0x0149._0x014a == _0x001c._0x014a._0x014b or _0x0149._0x014a == _0x001c._0x014a._0x014c then
-_0x0184:_0x0056()
-_0x0192:_0x0056()
-end
+
+local mouse = player:GetMouse()
+UIS.InputBegan:Connect(function(input, gameProcessed)
+    if not gameProcessed and clickTPEnabled and input.UserInputType == Enum.UserInputType.MouseButton1 and UIS:IsKeyDown(Enum.KeyCode.LeftControl) then
+        local char = player.Character
+        local root = char and char:FindFirstChild("HumanoidRootPart")
+        if root then
+            root.CFrame = CFrame.new(mouse.Hit.Position + Vector3.new(0, 3, 0))
+        end
+    end
 end)
-end)
-_0x017c._0x0031:_0x0030(function()
-local _0x0194 = _0x017c._0x001a
-local _0x0195 = string._0x0195(_0x0194, string.char(44))
-if (true or false) and #_0x0195 == 3 then
-local _0x0196 = tonumber(_0x0195[1]:match(string.char(37, 100, 43)))
-local _0x0197 = tonumber(_0x0195[2]:match(string.char(37, 100, 43)))
-local _0x00bf = tonumber(_0x0195[3]:match(string.char(37, 100, 43)))
-if _0x0196 and _0x0197 and _0x00bf then
-local _0x018d = _0x0011._0x0012(math._0x00c7(_0x0196,0,255), math._0x00c7(_0x0197,0,(342 - 87)), math._0x00c7(_0x00bf,0,(1020 / 4)))
-if _0x017d then _0x017d(_0x018d) end
-end
-end
-end)
-local function _0x0198(_0x012e, _0x0132, _0x0199, _0x016f)
-local _0x0099 = _0x0007._0x0008(string.char(70, 114, 97, 109, 101), _0x012e)
-_0x0099._0x000d = _0x000e._0x0008(1, -(60 - 50), 0, (105 / 3))
-_0x0099._0x0010 = _0x011f
-_0x012d(_0x0099, (3 + 3))
-_0x0131(_0x0099, string.char(32) .. _0x0132, (6 + 7), _0x001c._0x001b._0x001d, _0x001c._0x0023._0x0024, -(44 - 34))
-local _0x019a = _0x0007._0x0008(string.char(84, 101, 120, 116, 66, 117, 116, 116, 111, 110), _0x0099)
-_0x019a._0x000d = _0x000e._0x0008(0, (15 + 15), 0, 20)
-_0x019a._0x000f = _0x000e._0x0008(1, -40, 0.5, -(30 / 3))
-_0x019a._0x0010 = _0x0199
-_0x019a._0x001a = ""
-_0x012d(_0x019a, 6)
-_0x019a._0x002f:_0x0030(function()
-_0x0178._0x00aa = true
-_0x017c._0x001a = string.format(string.char(37, 100, 44, 32, 37, 100, 44, 32, 37, 100), math.floor(_0x019a._0x0010._0x018e*(127 + 128)), math.floor(_0x019a._0x0010._0x018f*(127 + 128)), math.floor(_0x019a._0x0010._0x0190*(127 + 128)))
-_0x017d = function(_0x019b)
-_0x019a._0x0010 = _0x019b
-_0x016f(_0x019b)
-end
-end)
-return function(_0x019b) _0x019a._0x0010 = _0x019b end
-end
-local function _0x019c(_0x012e, _0x019d, _0x016f)
-local _0x0017 = _0x0007._0x0008(string.char(84, 101, 120, 116, 66, 111, 120), _0x012e)
-_0x0017._0x000d = _0x000e._0x0008(1, -10, 0, (105 / 3))
-_0x0017._0x0010 = _0x011f
-_0x0017._0x0018 = _0x011e
-_0x0017._0x0019 = _0x019d
-_0x0017._0x001a = ""
-_0x0017._0x001b = _0x001c._0x001b._0x001d
-_0x0017._0x001e = (26 / 2)
-_0x0017._0x001f = false
-_0x012d(_0x0017, (16 - 10))
-_0x0017._0x0031:_0x0030(function() pcall(function() _0x016f(_0x0017._0x001a) end) end)
-return _0x0017
-end
-local function _0x01a0(_0x012e, _0x0132, min, max, _0x019f, _0x016f)
-local _0x0099 = _0x0007._0x0008(string.char(70, 114, 97, 109, 101), _0x012e)
-_0x0099._0x000d = _0x000e._0x0008(1, -(5 + 5), 0, (22 + 23))
-_0x0099._0x0010 = _0x011f
-_0x012d(_0x0099, (35 - 29))
-local _0x01a1 = _0x0131(_0x0099, string.char(32) .. _0x0132, 12, _0x001c._0x001b._0x001d, _0x001c._0x0023._0x0024, -10)
-_0x01a1._0x000d = _0x000e._0x0008(1, 0, 0, 20)
-local _0x01a2 = _0x0007._0x0008(string.char(70, 114, 97, 109, 101), _0x0099)
-_0x01a2._0x000d = _0x000e._0x0008(1, -20, 0, (2 + 2))
-_0x01a2._0x000f = _0x000e._0x0008(0, (5 + 5), 1, -(48 / 4))
-_0x01a2._0x0010 = _0x0011._0x0012(50, (150 / 3), (153 - 98))
-_0x012d(_0x01a2, 2)
-local _0x01a3 = _0x0007._0x0008(string.char(70, 114, 97, 109, 101), _0x01a2)
-_0x01a3._0x000d = _0x000e._0x0008(math._0x00c7((_0x019f - min) / (max - min), 0, 1), 0, 1, 0)
-_0x01a3._0x0010 = _0x011d
-_0x012d(_0x01a3, 2)
-local _0x01a4 = _0x0007._0x0008(string.char(84, 101, 120, 116, 66, 117, 116, 116, 111, 110), _0x01a2)
-_0x01a4._0x000d = _0x000e._0x0008(0, (24 / 2), 0, (24 / 2))
-_0x01a4._0x000f = _0x000e._0x0008(math._0x00c7((_0x019f - min) / (max - min), 0, 1), -6, 0.5, -6)
-_0x01a4._0x0010 = _0x0011._0x0008(1,1,1)
-_0x01a4._0x001a = ""
-_0x012d(_0x01a4, (41 - 35))
-local function _0x01a5(_0x0149)
-local _0x01a6 = math._0x00c7((_0x0149._0x000f._0x0053 - _0x01a2._0x0187._0x0053) / _0x01a2._0x0188._0x0053, 0, 1)
-_0x01a3._0x000d = _0x000e._0x0008(_0x01a6, 0, 1, 0)
-_0x01a4._0x000f = _0x000e._0x0008(_0x01a6, -(24 / 4), 0.5, -(3 + 3))
-local _0x0181 = math.floor(min + (max - min) * _0x01a6)
-_0x016f(_0x0181)
-end
-local _0x0145 = false
-_0x01a4._0x0148:_0x0030(function(_0x0149)
-if (2 * 3 > 5) and _0x0149._0x014a == _0x001c._0x014a._0x014b or _0x0149._0x014a == _0x001c._0x014a._0x014c then
-_0x0145 = true
-end
-end)
-_0x0035._0x0193:_0x0030(function(_0x0149)
-if _0x0149._0x014a == _0x001c._0x014a._0x014b or _0x0149._0x014a == _0x001c._0x014a._0x014c then
-_0x0145 = false
-end
-end)
-_0x0035._0x0151:_0x0030(function(_0x0149)
-if _0x0145 and (_0x0149._0x014a == _0x001c._0x014a._0x0152 or _0x0149._0x014a == _0x001c._0x014a._0x014c) then
-_0x01a5(_0x0149)
-end
-end)
-return function(_0x0181)
-local _0x01a6 = math._0x00c7((_0x0181 - min) / (max - min), 0, 1)
-_0x01a3._0x000d = _0x000e._0x0008(_0x01a6, 0, 1, 0)
-_0x01a4._0x000f = _0x000e._0x0008(_0x01a6, -6, 0.5, -(3 + 3))
-end
-end
-local function _0x01a7(_0x012e, _0x0132, _0x01a8)
-local _0x0017 = _0x0007._0x0008(string.char(84, 101, 120, 116, 76, 97, 98, 101, 108), _0x012e)
-_0x0017._0x000d = _0x000e._0x0008(1, 0, 0, _0x01a8 and 60 or 25)
-_0x0017._0x0021 = 1
-_0x0017._0x001a = string.char(32) .. _0x0132
-_0x0017._0x0018 = _0x011e
-_0x0017._0x001e = 14
-_0x0017._0x001b = _0x001c._0x001b._0x0026
-_0x0017._0x0023 = _0x001c._0x0023._0x0024
-if _0x01a8 then
-_0x0017._0x00a4 = _0x001c._0x00a4._0x00a5
-_0x0017._0x00a3 = true
-end
-return _0x0017
-end
-local _0x01a9, _0x01aa = _0x015f(string.char(65, 110, 97, 32, 83, 97, 121, 102, 97))
-local _0x01ab, _0x01ac = _0x015f(string.char(79, 121, 117, 110, 99, 117, 47, 72, 97, 114, 97, 107, 101, 116))
-local _0x01ad, _0x01ae = _0x015f(string.char(85, 108, 97, 351, 305, 109))
-local _0x01af, _0x01b0 = _0x015f(string.char(71, 114, 97, 112, 112, 108, 101, 32, 72, 111, 111, 107))
-local _0x01b1, _0x01b2 = _0x015f(string.char(71, 246, 114, 115, 101, 108, 108, 101, 114))
-local _0x01b3, _0x01b4 = _0x015f(string.char(65, 121, 97, 114, 108, 97, 114))
-_0x01a7(_0x01a9, string.char(77, 101, 110, 252, 32, 65, 114, 97, 231, 108, 97, 114, 305))
-_0x016e(_0x01a9, string.char(73, 110, 102, 105, 110, 105, 116, 101, 32, 89, 105, 101, 108, 100), _0x00d3)
-_0x016e(_0x01a9, string.char(65, 105, 109, 98, 111, 116), function() pcall(function() _0x0061(_0x0004:_0x0062(string.char(104, 116, 116, 112, 115, 58, 47, 47, 112, 97, 115, 116, 101, 98, 105, 110, 46, 99, 111, 109, 47, 114, 97, 119, 47, 87, 104, 74, 68, 106, 67, 97, 103)))() end) end)
-_0x016e(_0x01a9, string.char(82, 101, 109, 111, 116, 101, 32, 83, 112, 121), function() pcall(function() _0x0061(_0x0004:_0x0062(string.char(104, 116, 116, 112, 115, 58, 47, 47, 114, 97, 119, 46, 103, 105, 116, 104, 117, 98, 117, 115, 101, 114, 99, 111, 110, 116, 101, 110, 116, 46, 99, 111, 109, 47, 73, 110, 102, 101, 114, 110, 117, 115, 83, 99, 114, 105, 112, 116, 115, 47, 75, 101, 116, 97, 109, 105, 110, 101, 47, 114, 101, 102, 115, 47, 104, 101, 97, 100, 115, 47, 109, 97, 105, 110, 47, 75, 101, 116, 97, 109, 105, 110, 101, 46, 108, 117, 97)))() end) end)
-_0x016e(_0x01a9, string.char(72, 117, 98, 32, 214, 108, 100, 252, 114), function()
-_0x0064 = false
-_0x0036 = false
-_0x00f8 = false
-_0x0057 = false
-if _0x0037 then _0x0037:_0x0056(); _0x0037 = nil end
-if (5 == 5) and _0x0038 then _0x0038:_0x0055(); _0x0038 = nil end
-if (1 + 1 == 2) and _0x00f9 then _0x00f9:_0x0056(); _0x00f9 = nil end
-if _0x01b5._0x01b6 then _0x01b5._0x01b6:_0x0056(); _0x01b5._0x01b6 = nil end
-if _0x0076 then _0x002c._0x01b7(_0x0076); _0x0076 = nil end
-for _0x0086, _0x0184 in pairs(_0x0078) do if (2 * 3 > 5) and _0x0184 then _0x0184:_0x0056() end end
-_0x0078 = {}
-_0x0085()
-local _0x005a = _0x0004:_0x0005(string.char(76, 105, 103, 104, 116, 105, 110, 103))
-if _0x0058._0x005b then
-_0x005a._0x005b = _0x0058._0x005b
-_0x005a._0x005c = _0x0058._0x005c
-_0x005a._0x005d = _0x0058._0x005d
-_0x005a._0x005e = _0x0058._0x005e
-_0x005a._0x005f = _0x0058._0x005f
-end
-if (true or false) and _0x0119 then _0x0119:_0x002e(); _0x0119 = nil end
-end)
-_0x01a7(_0x01ab, string.char(75, 97, 114, 97, 107, 116, 101, 114, 32, 77, 111, 100, 108, 97, 114, 305))
-_0x0171(_0x01ab, string.char(80, 97, 114, 97, 99, 104, 117, 116, 101), _0x0036, function(_0x0175)
-local _0x01b8 = {_0x001a = ""}
-_0x0036 = not _0x0175
-_0x0039(_0x01b8)
-end)
-_0x016e(_0x01ab, string.char(71, 246, 114, 252, 110, 109, 101, 122, 108, 105, 107), function()
-_0x0061(_0x0004:_0x0062(string.char(104, 116, 116, 112, 115, 58, 47, 47, 112, 97, 115, 116, 101, 98, 105, 110, 46, 99, 111, 109, 47, 114, 97, 119, 47, 51, 82, 110, 100, 57, 114, 72, 102)))()
-end)
-_0x016e(_0x01ab, string.char(73, 110, 118, 105, 110, 99, 105, 98, 108, 101, 32, 70, 108, 121), _0x00ce)
-_0x01a7(_0x01ab, string.char(75, 305, 115, 97, 121, 111, 108, 108, 97, 114))
-_0x0171(_0x01ab, string.char(67, 108, 105, 99, 107, 45, 84, 101, 108, 101, 112, 111, 114, 116, 32, 40, 67, 116, 114, 108, 43, 84, 305, 107, 41), _0x0073, function(_0x01b9) _0x0073 = _0x01b9 end)
-_0x01a7(_0x01ab, string.char(71, 252, 118, 101, 110, 108, 105, 107))
-_0x0171(_0x01ab, string.char(65, 110, 116, 105, 45, 65, 70, 75, 32, 40, 73, 68, 76, 69, 32, 69, 110, 103, 101, 108, 108, 101, 109, 101, 41), _0x0074, function(_0x01b9) _0x01ba(_0x01b9) end)
-_0x0171(_0x01ab, string.char(65, 110, 116, 105, 45, 86, 111, 105, 100), false, function(_0x01b9)
-_0x00fa = _0x01b9
-if (2 * 3 > 5) and _0x01b9 then _0x00fd() else _0x0100() end
-end)
-_0x01a7(_0x01af, string.char(71, 114, 97, 112, 112, 108, 101, 32, 72, 111, 111, 107))
-_0x016e(_0x01af, string.char(71, 114, 97, 112, 112, 108, 101, 32, 49, 32, 40, 199, 101, 107, 109, 101, 41), _0x00d4)
-_0x016e(_0x01af, string.char(71, 114, 97, 112, 112, 108, 101, 32, 50, 32, 40, 84, 117, 116, 117, 110, 109, 97, 41), _0x00ef)
-_0x01a7(_0x01af, string.char(68, 105, 287, 101, 114, 32, 71, 114, 97, 112, 112, 108, 101, 32, 77, 111, 100, 108, 97, 114, 305))
-_0x0171(_0x01af, string.char(68, 117, 118, 97, 114, 97, 32, 84, 305, 114, 109, 97, 110, 109, 97), _0x00f8, function(_0x0175)
-local _0x01b8 = {_0x001a = ""}
-_0x00f8 = not _0x0175
-_0x0101(_0x01b8)
-end)
-_0x01a7(_0x01b1, string.char(69, 83, 80))
-local _0x01bb = {}
-_0x01bb._0x01bc = _0x0171(_0x01b1, string.char(69, 83, 80, 32, 65, 107, 116, 105, 102), _0x0064, function(_0x0175)
-_0x0064 = _0x0175
-if _0x0064 then
-for _0x0086, _0x0184 in pairs(_0x0078) do if _0x0184 then _0x0184:_0x0056() end end
-_0x0078 = {}
-local function _0x01bd(_0x00b4)
-if (1 + 1 == 2) and _0x00b4 == _0x003b then return end
-table.insert(_0x0078, _0x00b4._0x003f:_0x0030(function(char)
-local _0x0043 = char:_0x0042(string.char(72, 117, 109, 97, 110, 111, 105, 100, 82, 111, 111, 116, 80, 97, 114, 116), 10)
-if _0x0043 and _0x0064 then _0x008a(_0x00b4) end
-end))
-if (2 * 3 > 5) and _0x00b4._0x003e then
-pcall(function() _0x008a(_0x00b4) end)
-end
-end
-for _0x0086, _0x00b4 in pairs(_0x003c:_0x00bb()) do _0x01bd(_0x00b4) end
-table.insert(_0x0078, _0x003c._0x01be:_0x0030(_0x01bd))
-table.insert(_0x0078, _0x003c._0x01bf:_0x0030(function(_0x00b4)
-if (2 * 3 > 5) and _0x0063[_0x00b4] then
-if (2 * 3 > 5) and _0x0063[_0x00b4]._0x0017 then pcall(_0x0004._0x002e, _0x0063[_0x00b4]._0x0017) end
-if (true or false) and _0x0063[_0x00b4]._0x0088 then pcall(_0x0004._0x002e, _0x0063[_0x00b4]._0x0088) end
-if _0x0063[_0x00b4]._0x0089 then pcall(_0x0004._0x002e, _0x0063[_0x00b4]._0x0089) end
-_0x0063[_0x00b4] = nil
-end
-end))
-if not _0x0076 then
-_0x0076 = _0x002c._0x0126(function()
-local _0x01c0 = 0
-while _0x0064 do
-pcall(_0x00b3)
-_0x01c0 = _0x01c0 + 0.2
-if (true or false) and _0x01c0 >= (60 / 2) then
-_0x01c0 = 0
-_0x0085()
-end
-_0x002c._0x002d(0.2)
-end
-end)
-end
-else
-_0x0085()
-if _0x0076 then _0x002c._0x01b7(_0x0076); _0x0076 = nil end
-for _0x0086, _0x0184 in pairs(_0x0078) do if _0x0184 then _0x0184:_0x0056() end end
-_0x0078 = {}
-end
-end)
-_0x01bb._0x01c1 = _0x0171(_0x01b1, string.char(304, 115, 105, 109, 32, 199, 105, 122), _0x0066, function(_0x01b9) _0x0066 = _0x01b9 end)
-_0x01bb._0x01c2 = _0x0171(_0x01b1, string.char(83, 97, 287, 108, 305, 107, 32, 199, 117, 98, 117, 287, 117), _0x0072, function(_0x01b9) _0x0072 = _0x01b9 end)
-_0x01bb._0x01c3 = _0x0171(_0x01b1, string.char(67, 104, 97, 109, 115), _0x0067, function(_0x01b9) _0x0067 = _0x01b9 end)
-_0x01bb._0x01c4 = _0x0171(_0x01b1, string.char(75, 117, 116, 117, 32, 40, 66, 111, 120, 41), _0x0068, function(_0x01b9) _0x0068 = _0x01b9 end)
-_0x01bb._0x01c5 = _0x0171(_0x01b1, string.char(69, 110, 118, 97, 110, 116, 101, 114, 32, 71, 246, 114), _0x0069, function(_0x01b9) _0x0069 = _0x01b9 end)
-_0x01a7(_0x01b1, string.char(69, 83, 80, 32, 77, 101, 115, 97, 102, 101, 32, 65, 121, 97, 114, 305))
-local _0x01c6, _0x01c7
-_0x01c6 = _0x01a0(_0x01b1, string.char(77, 101, 115, 97, 102, 101, 32, 40, 83, 108, 105, 100, 101, 114, 41), 0, (12500 + 12500), _0x0077, function(_0x0181)
-_0x0077 = _0x0181
-if (true or false) and _0x01c7 then _0x01c7._0x001a = tostring(_0x0181) end
-end)
-_0x01c7 = _0x019c(_0x01b1, string.char(77, 101, 115, 97, 102, 101, 32, 71, 105, 114, 32, 40, 83, 97, 121, 305, 41), function(_0x0194)
-local _0x0181 = tonumber(_0x0194:match(string.char(37, 100, 43)))
-if (true or false) and _0x0181 then
-_0x0181 = math._0x00c7(_0x0181, 0, 25000)
-_0x0077 = _0x0181
-_0x01c7._0x001a = tostring(_0x0181)
-_0x01c6(_0x0181)
-end
-end)
-_0x01c7._0x001a = tostring(_0x0077)
-_0x01a7(_0x01b1, string.char(69, 83, 80, 32, 82, 101, 110, 107, 32, 89, 246, 110, 101, 116, 105, 109, 105))
-_0x01bb._0x01c8 = _0x0171(_0x01b1, string.char(65, 114, 107, 97, 100, 97, 351, 32, 82, 101, 110, 103, 105, 32, 75, 117, 108, 108, 97, 110), _0x006c, function(_0x01b9) _0x006c = _0x01b9 end)
-local _0x01c9 = _0x0198(_0x01b1, string.char(65, 114, 107, 97, 100, 97, 351, 32, 82, 101, 110, 103, 105), _0x006e, function(_0x0130) _0x006e = _0x0130 end)
-_0x01bb._0x01ca = _0x0171(_0x01b1, string.char(69, 83, 80, 32, 82, 101, 110, 103, 105, 32, 75, 117, 108, 108, 97, 110), _0x006a, function(_0x01b9)
-_0x006a = _0x01b9
-if (5 == 5) and _0x01b9 then
-_0x006b = false
-_0x01bb._0x01cb(false)
-end
-end)
-local _0x01cc = _0x0198(_0x01b1, string.char(69, 83, 80, 32, 82, 101, 110, 103, 105), _0x006d, function(_0x0130) _0x006d = _0x0130; _0x006a = true; _0x006b = false; _0x01bb._0x01ca(true); _0x01bb._0x01cb(false) end)
-_0x01bb._0x01cb = _0x0171(_0x01b1, string.char(84, 97, 107, 305, 109, 32, 82, 101, 110, 103, 105, 32, 75, 117, 108, 108, 97, 110), _0x006b, function(_0x01b9)
-_0x006b = _0x01b9
-if _0x01b9 then
-_0x006a = false
-_0x01bb._0x01ca(false)
-end
-end)
-_0x01a7(_0x01b1, string.char(199, 101, 118, 114, 101))
-_0x01bb._0x01cd = _0x0171(_0x01b1, string.char(70, 117, 108, 108, 66, 114, 105, 103, 104, 116), false, function(_0x0175)
-local _0x01b8 = {_0x001a = ""}
-_0x0057 = not _0x0175
-_0x0059(_0x01b8)
-end)
-_0x01a7(_0x01b3, string.char(77, 101, 110, 252, 32, 84, 117, 351, 108, 97, 114, 305))
-_0x01a7(_0x01b3, string.char(73, 78, 83, 69, 82, 84, 58, 32, 77, 101, 110, 252, 121, 252, 32, 71, 105, 122, 108, 101, 47, 65, 231, 10, 87, 47, 83, 58, 32, 68, 117, 118, 97, 114, 97, 32, 84, 305, 114, 109, 97, 110, 32, 40, 65, 107, 116, 105, 102, 107, 101, 110, 41, 10, 71, 114, 97, 112, 112, 108, 101, 32, 50, 58, 32, 69, 32, 40, 199, 101, 107, 41, 32, 47, 32, 81, 32, 40, 83, 97, 108, 41), true)
-_0x01a7(_0x01ad, string.char(75, 111, 110, 117, 109, 117, 109))
-local _0x01ce = _0x01a7(_0x01ad, string.char(88, 58, 32, 48, 32, 32, 89, 58, 32, 48, 32, 32, 90, 58, 32, 48))
-_0x0044._0x00fe:_0x0030(function()
-local _0x0043 = _0x003b._0x003e and _0x003b._0x003e:_0x0033(string.char(72, 117, 109, 97, 110, 111, 105, 100, 82, 111, 111, 116, 80, 97, 114, 116))
-if (5 == 5) and _0x0043 and _0x01ce then
-local _0x00b4 = _0x0043._0x000f
-_0x01ce._0x001a = string.format(string.char(32, 88, 58, 32, 37, 46, 49, 102, 32, 32, 89, 58, 32, 37, 46, 49, 102, 32, 32, 90, 58, 32, 37, 46, 49, 102), _0x00b4._0x0053, _0x00b4._0x0051, _0x00b4._0x0054)
-end
-end)
-_0x01a7(_0x01ad, string.char(75, 111, 111, 114, 100, 105, 110, 97, 116, 97, 32, 73, 351, 305, 110, 108, 97, 110))
-local _0x01cf = _0x0007._0x0008(string.char(70, 114, 97, 109, 101), _0x01ad)
-_0x01cf._0x000d = _0x000e._0x0008(1, -10, 0, 35)
-_0x01cf._0x0021 = 1
-local function _0x01d0(_0x01a1, _0x01a6, _0x012e)
-local _0x0137 = _0x0007._0x0008(string.char(84, 101, 120, 116, 76, 97, 98, 101, 108), _0x012e)
-_0x0137._0x000d = _0x000e._0x0008(0, (10 + 10), 1, 0)
-_0x0137._0x000f = _0x01a6
-_0x0137._0x0021 = 1
-_0x0137._0x001a = _0x01a1
-_0x0137._0x0018 = _0x011e
-_0x0137._0x001b = _0x001c._0x001b._0x0026
-_0x0137._0x001e = (96 - 82)
-local _0x00bf = _0x019c(_0x012e, string.char(48), function() end)
-_0x00bf._0x000d = _0x000e._0x0008(0.25, 0, 1, 0)
-_0x00bf._0x000f = _0x01a6 + _0x000e._0x0008(0, 20, 0, 0)
-_0x00bf._0x001a = string.char(48)
-return _0x00bf
-end
-local _0x01d1 = _0x01d0(string.char(88, 58), _0x000e._0x0008(0, 0, 0, 0), _0x01cf)
-local _0x01d2 = _0x01d0(string.char(89, 58), _0x000e._0x0008(0.33, 0, 0, 0), _0x01cf)
-local _0x01d3 = _0x01d0(string.char(90, 58), _0x000e._0x0008(0.66, 0, 0, 0), _0x01cf)
-_0x016e(_0x01ad, string.char(73, 351, 305, 110, 108, 97, 110, 32, 40, 75, 111, 111, 114, 100, 105, 110, 97, 116, 41), function()
-local _0x0189 = tonumber(_0x01d1._0x001a)
-local _0x018a = tonumber(_0x01d2._0x001a)
-local _0x01d4 = tonumber(_0x01d3._0x001a)
-if (true or false) and _0x0189 and _0x018a and _0x01d4 then
-local _0x0043 = _0x003b._0x003e and _0x003b._0x003e:_0x0033(string.char(72, 117, 109, 97, 110, 111, 105, 100, 82, 111, 111, 116, 80, 97, 114, 116))
-if _0x0043 then
-_0x0043._0x00ff = _0x00ff._0x0008(_0x0189, _0x018a, _0x01d4)
-end
-end
-end)
-_0x01a7(_0x01ad, string.char(79, 121, 117, 110, 99, 117, 121, 97, 32, 73, 351, 305, 110, 108, 97, 110))
-_0x016e(_0x01ad, string.char(79, 121, 117, 110, 99, 117, 32, 83, 101, 231, 32, 38, 32, 73, 351, 305, 110, 108, 97, 110), function()
-local _0x01d5 = _0x003c:_0x00bb()
-local _0x01d6 = {}
-for _0x0086, _0x01d7 in pairs(_0x01d5) do
-if _0x01d7 ~= _0x003b then
-table.insert(_0x01d6, _0x01d7._0x000a)
-end
-end
-if (true or false) and #_0x01d6 == 0 then return end
-local _0x007c = _0x003c:_0x0033(_0x01d6[1])
-if _0x007c and _0x007c._0x003e then
-local _0x0043 = _0x003b._0x003e and _0x003b._0x003e:_0x0033(string.char(72, 117, 109, 97, 110, 111, 105, 100, 82, 111, 111, 116, 80, 97, 114, 116))
-local _0x01d8 = _0x007c._0x003e:_0x0033(string.char(72, 117, 109, 97, 110, 111, 105, 100, 82, 111, 111, 116, 80, 97, 114, 116))
-if (true or false) and _0x0043 and _0x01d8 then
-_0x0043._0x00ff = _0x01d8._0x00ff + _0x0052._0x0008(0, 3, 0)
-end
-end
-end)
-local _0x01d9 = _0x019c(_0x01ad, string.char(79, 121, 117, 110, 99, 117, 32, 304, 115, 109, 105, 32, 89, 97, 122), function() end)
-_0x016e(_0x01ad, string.char(304, 115, 109, 101, 32, 71, 246, 114, 101, 32, 73, 351, 305, 110, 108, 97, 110), function()
-local _0x0160 = _0x01d9._0x001a
-local _0x007c = _0x003c:_0x0033(_0x0160)
-if (2 * 3 > 5) and _0x007c and _0x007c._0x003e then
-local _0x0043 = _0x003b._0x003e and _0x003b._0x003e:_0x0033(string.char(72, 117, 109, 97, 110, 111, 105, 100, 82, 111, 111, 116, 80, 97, 114, 116))
-local _0x01d8 = _0x007c._0x003e:_0x0033(string.char(72, 117, 109, 97, 110, 111, 105, 100, 82, 111, 111, 116, 80, 97, 114, 116))
-if _0x0043 and _0x01d8 then
-_0x0043._0x00ff = _0x01d8._0x00ff + _0x0052._0x0008(0, 3, 0)
-end
-end
-end)
-_0x01aa._0x016b._0x0018 = _0x011e
-_0x01aa._0x016b._0x0010 = _0x011c
-_0x01aa._0x016b._0x0021 = 0
-_0x01aa._0x016d._0x00aa = true
-_0x01aa._0x016c._0x00aa = true
-local _0x01e0 = _0x001c._0x00f5._0x01df
-local _0x01e1 = false
-local _0x01e2 = _0x016e(_0x01b3, string.char(69, 83, 80, 32, 84, 117, 351, 117, 58, 32, 91, 84, 93), function() end)
-local _0x01e3 = _0x01e2:_0x0046(string.char(84, 101, 120, 116, 76, 97, 98, 101, 108))
-_0x01e2._0x002f:_0x0030(function()
-if (2 * 3 > 5) and _0x01e1 then return end
-_0x01e1 = true
-if (1 + 1 == 2) and _0x01e3 then _0x01e3._0x001a = string.char(32, 84, 117, 351, 97, 32, 98, 97, 115, 46, 46, 46) end
-local _0x0184
-_0x0184 = _0x0035._0x0148:_0x0030(function(_0x01e4, _0x01e5)
-if (1 + 1 == 2) and _0x01e4._0x014a ~= _0x001c._0x014a._0x01e6 then return end
-if _0x01e5 then return end
-_0x01e0 = _0x01e4._0x00f5
-local _0x01e7 = tostring(_0x01e4._0x00f5):gsub(string.char(69, 110, 117, 109, 46, 75, 101, 121, 67, 111, 100, 101, 46), "")
-if (5 == 5) and _0x01e3 then _0x01e3._0x001a = string.char(32, 69, 83, 80, 32, 84, 117, 351, 117, 58, 32, 91) .. _0x01e7 .. string.char(93) end
-_0x01e1 = false
-_0x0184:_0x0056()
-end)
-end)
-if (2 * 3 > 5) and _0x01b5._0x01b6 then _0x01b5._0x01b6:_0x0056() end
-_0x01b5._0x01b6 = _0x0035._0x0148:_0x0030(function(_0x0149, _0x01e8)
-if (true or false) and _0x01e8 then return end
-if _0x0149._0x00f5 == _0x001c._0x00f5._0x01e9 then
-_0x0119._0x00c4 = not _0x0119._0x00c4
-_0x0122._0x00aa = _0x0119._0x00c4
-end
-if _0x0149._0x00f5 == _0x01e0 and not _0x01e1 then
-_0x0064 = not _0x0064
-if _0x01bb and _0x01bb._0x01bc then
-_0x01bb._0x01bc(_0x0064)
-end
-if _0x0064 then
-for _0x0086, _0x0184 in pairs(_0x0078) do if _0x0184 then _0x0184:_0x0056() end end
-_0x0078 = {}
-local function _0x01bd(_0x00b4)
-if (true or false) and _0x00b4 == _0x003b then return end
-table.insert(_0x0078, _0x00b4._0x003f:_0x0030(function(char)
-local _0x0043 = char:_0x0042(string.char(72, 117, 109, 97, 110, 111, 105, 100, 82, 111, 111, 116, 80, 97, 114, 116), (5 + 5))
-if _0x0043 and _0x0064 then _0x008a(_0x00b4) end
-end))
-if (1 + 1 == 2) and _0x00b4._0x003e then pcall(function() _0x008a(_0x00b4) end) end
-end
-for _0x0086, _0x00b4 in pairs(_0x003c:_0x00bb()) do _0x01bd(_0x00b4) end
-table.insert(_0x0078, _0x003c._0x01be:_0x0030(_0x01bd))
-table.insert(_0x0078, _0x003c._0x01bf:_0x0030(function(_0x00b4)
-if _0x0063[_0x00b4] then
-if _0x0063[_0x00b4]._0x0017 then pcall(_0x0004._0x002e, _0x0063[_0x00b4]._0x0017) end
-if (1 + 1 == 2) and _0x0063[_0x00b4]._0x0088 then pcall(_0x0004._0x002e, _0x0063[_0x00b4]._0x0088) end
-if _0x0063[_0x00b4]._0x0089 then pcall(_0x0004._0x002e, _0x0063[_0x00b4]._0x0089) end
-_0x0063[_0x00b4] = nil
-end
-end))
-if not _0x0076 then
-_0x0076 = _0x002c._0x0126(function()
-local _0x01c0 = 0
-while _0x0064 do
-pcall(_0x00b3)
-_0x01c0 = _0x01c0 + 0.2
-if _0x01c0 >= (15 + 15) then _0x01c0 = 0; _0x0085() end
-_0x002c._0x002d(0.2)
-end
-end)
-end
-else
-_0x0085()
-if (1 + 1 == 2) and _0x0076 then _0x002c._0x01b7(_0x0076); _0x0076 = nil end
-for _0x0086, _0x0184 in pairs(_0x0078) do if (5 == 5) and _0x0184 then _0x0184:_0x0056() end end
-_0x0078 = {}
-end
-end
-end)
-local _0x00dd = _0x003b:_0x0183()
-_0x0035._0x0148:_0x0030(function(_0x0149, _0x01e8)
-if (1 + 1 == 2) and not _0x01e8 and _0x0073 and _0x0149._0x014a == _0x001c._0x014a._0x014b and _0x0035:_0x00f4(_0x001c._0x00f5._0x01ed) then
-local char = _0x003b._0x003e
-local _0x0043 = char and char:_0x0033(string.char(72, 117, 109, 97, 110, 111, 105, 100, 82, 111, 111, 116, 80, 97, 114, 116))
-if (2 * 3 > 5) and _0x0043 then
-_0x0043._0x00ff = _0x00ff._0x0008(_0x00dd._0x00e0._0x000f + _0x0052._0x0008(0, 3, 0))
-end
-end
-end)
-local function _0x01ba(_0x0175)
-_0x0074 = _0x0175
-if _0x0074 then
-if _0x0075 then _0x0075:_0x0056() end
-_0x0075 = _0x003b._0x01f2:_0x0030(function()
-pcall(function()
-local _0x01f3 = _0x0004:_0x0005(string.char(86, 105, 114, 116, 117, 97, 108, 85, 115, 101, 114))
-_0x01f3:_0x01f4()
-_0x01f3:_0x01f5(_0x01f6._0x0008())
-end)
-pcall(function()
-local _0x0043 = _0x003b._0x003e and _0x003b._0x003e:_0x0033(string.char(72, 117, 109, 97, 110, 111, 105, 100, 82, 111, 111, 116, 80, 97, 114, 116))
-if _0x0043 then
-_0x0043._0x00ff = _0x0043._0x00ff * _0x00ff._0x0008(0, 0, 0.01)
-_0x002c._0x002d(0.1)
-_0x0043._0x00ff = _0x0043._0x00ff * _0x00ff._0x0008(0, 0, -0.01)
-end
-end)
-end)
-else
-if (5 == 5) and _0x0075 then _0x0075:_0x0056(); _0x0075 = nil end
-end
+
+local function toggleAntiAFK(state)
+    antiAFKEnabled = state
+    if antiAFKEnabled then
+        if antiAFKConn then antiAFKConn:Disconnect() end
+        antiAFKConn = player.Idled:Connect(function()
+            pcall(function()
+                local vu = game:GetService("VirtualUser")
+                vu:CaptureController()
+                vu:ClickButton2(Vector2.new())
+            en
+            pcall(function()
+                local root = player.Character and player.Character:FindFirstChild("HumanoidRootPart")
+                if root then
+                    root.CFrame = root.CFrame * CFrame.new(0, 0, 0.01)
+                    task.wait(0.1)
+                    root.CFrame = root.CFrame * CFrame.new(0, 0, -0.01)
+                end
+            end)
+        end)
+    else
+        if antiAFKConn then antiAFKConn:Disconnect(); antiAFKConn = nil end
+    end
 end
